@@ -1,4 +1,4 @@
-Capo 3
+Lior - Grey Ocean (Capo 3)
 
    Em7
 e|---------------------------------0-------------------------------|
@@ -49,15 +49,24 @@ A|-----------------------------------------------------------------|
 E|-3-------3-------3-------3-------0-------0-------0-------0-------|
 
 
+e|-----------------------------------------------|
+B|-----------------------------------------------|
+G|-----------------------------------------------|
+D|-----------------------------------------------|
+A|-3-------3-------3-------3---------------------|
+E|-----------------------------------------------|
+
+
+
 Intro: Em7 A7sus Em7 A7sus
 
-Em7                 A7sus
+Em7        A7sus
 Ooh, there's a grey ocean
 
-Em7                 A7sus
+Em7        A7sus
 Ooh, it's calling me in
 
-Em7                 C#dim(b9)
+Em7        C#dim(b9)
 I'm getting taken under
 
 Bm(b6)           Am9
@@ -85,12 +94,10 @@ Don't know where you'll take me
 
 Bm(b6)               Am9
 Whether you'll do me harm
-     C              Bm7
+     C              Bm7              Em7
 Just don't leave me stranded in your arms
 
-Em7
-===
-
+G(add9)
 Ooh, ooh, ooh, ooh
 When I'm trying to keep my head above your charm
 Trying to stay calm
