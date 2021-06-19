@@ -1,0 +1,11 @@
+Tuning: Open C6 Tuning in the Key of G or "Ronroco A" (Ronroco with 2 strings down an octave) - Capo7 or wherever
+Ref: https://www.youtube.com/watch?v=9GLpQCe7d8Y
+
+[intro]
+e|----||
+A|----||
+E|----||
+C|----||
+G|----||
+E|----||
+
