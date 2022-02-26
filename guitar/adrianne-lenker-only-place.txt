@@ -1,0 +1,141 @@
+Adrianne ref: https://www.youtube.com/watch?v=LhC44bRZfrk&ab_channel=Rilocybin
+Guitar cover ref: https://www.youtube.com/watch?v=K3lmBa3R6CA&list=PLHoF8ne1Vr7s9vTBDFn9dUuZUDBRGxeyU&index=46&ab_channel=RafaelLeafar
+
+Transposed by Rafeal Leafar
+
+tuning:
+(6th) C# Ab C# F Bb C# (1st)
+capo on 3rd fret
+
+
+chord shapes
+x 2 4 0 0 0
+x 2 2 2 0 0
+
+
+x 5 5 5 0 0
+x 0 5 3 2 0
+x 0 4 3 2 0
+x 0 2 3 2 0
+x 0 4 3 3 0
+
+
+5 0 0 0 0 0
+4 0 0 0 0 0
+2 0 0 0 0 0
+
+
+2 2 5 0 0 0
+
+
+x 4 7 0 5 0
+x 5 8 0 7 0
+x 2 5 0 3 0
+4 x 7 0 5 0
+7 x 10 0 8 0
+2 x 5 0 3 0
+
+
+picking pattern for chords starting with x (where 6th string is not played):
+1 |                    x |
+2 |    x                 |
+3 |             x        |
+4 |    x          x     |
+5 |x       x            |
+6 |                       |
+
+
+
+
+picking pattern for full chords (where all strings are played - no x)
+1 |                    x |
+2 |    x                 |
+3 |             x        |
+4 |    x          x     |
+5 |         x            |
+6 |x                     |
+
+
+picking pattern for chords where 5th string is not played (x)
+1 |                    x |
+2 |    x                 |
+3 |             x        |
+4 |    x          x     |
+5 |                       |
+6 |x       x            |
+
+
+hope this makes sense. i apologise that i don't have a tab for it. if you get the picking pattern right, you can apply it to various chords with only minor adjustments. which is why i separate the chord shapes from the picking pattern. basically, you press the chords, then apply the picking pattern. im inclined to think that looking at a tab for this would be even more complicated to figure out. this makes sense to me and i hope you get it.
+
+
+
+Specifics on the slide 0.20 to 0.24
+1| ---------------0----------------------------------------------------------------
+2| ------------------------------------------0-------------------------------------
+3| 5h7------------------7-----------------------------------------5------------
+4| ----------5-------------------5-------------------5------------------5-------
+5| 5-----------------5---------------------5------------------5-----------------
+6| ---------------------------------------------------------------------------------
+
+1| ---------------------------------------------------------------------------------
+2| ---------------0----------------------------------------------------------------
+3| 2h3------------------3----------------2-----------------------2------------
+4| ----------2-------------------2-------------------2------------------2-------
+5| 2-----------------2---------------------2------------------2-----------------
+6| ---------------------------------------------------------------------------------
+
+0.51 to 0.56
+1| -------------------------0-----------------------------0------------------------
+2| --------- 2h3----------------------- 2h3--------------------3--------------
+3| ----------------------------------------------------------------------------------
+4| ----------2---------2-------2-------------------2--------2--------2---------
+5| 0--------------------------------------0----------------------------------------
+6| ----------------------------------------------------------------------------------
+
+1| -------------------------0-----------------------------0------------------------
+2| ----------2/3------------------------2/3---------------------3--------------
+3| ----------------------------------------------------------------------------------
+4| ----------4---------4-------4-------------------4--------4--------4---------
+5| 0--------------------------------------0----------------------------------------
+6| ----------------------------------------------------------------------------------
+
+let me know if this helps. cheers!!!
+
+
+What if all the worlds in space
+Would melt into one single place
+And intertwine the human race
+With other kinds
+The atom is an empty vase
+A vehicle to know embrace
+The way you feel the way you taste
+It multiplies
+
+{Chorus}
+So much to share
+So much to share
+And our material scatters
+And ashes amplify
+The only place that matters is by your side
+
+{Verse 2}
+What if all the time between
+The words we say and what we mean
+Would roll as softly as a stream
+That we could ride
+We'd ride the bends from source to mouth
+I want a friend from north to south
+To build that question ends a house
+Where we'd reside
+
+{Chorus}
+So much to share
+So much to share
+And our material scatters
+And ashes amplify
+The only place that matters is by your side
+
+{Outro}
+And our material scatters
+And ashes amplify
+The only place that matters is by your side
