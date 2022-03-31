@@ -2,6 +2,7 @@ Bibio - Ambivalence Avenue
 Standard Tuning, Swungish timing
 Ref: https://www.youtube.com/watch?v=rUQNHASA-Pw
 
+(bar chord 2nd fret)
 E|--------|--------|--------|--------||
 B|----2---|3-------|5-------|3-------||
 G|4-------|---4----|----6---|---4----||
