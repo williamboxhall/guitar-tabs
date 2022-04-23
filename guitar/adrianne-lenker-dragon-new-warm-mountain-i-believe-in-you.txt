@@ -2,8 +2,8 @@ Credit Rafael Leafar: https://youtu.be/sTtJlk8QEEo
 
 tuning: (6) C-G-D-G-A-D (1)
 capo on 2nd fret
-picking pattern:
 
+[picking pattern]
 1|                              x
 2|            x
 3|     x              x
@@ -11,16 +11,70 @@ picking pattern:
 5|                 x
 6| x
 
-apply the picking pattern to these chords
-verses
-2 2 4 0 0 0
+[chords]
+[verse]
 4 4 4 0 0 0
+2 2 4 0 0 0
 
-chorus
+[chorus]
 0 0 2 0 0 0
 4 4 5 0 0 0
 2 2 4 0 0 0
+
+[bridge]
 9 9 11 0 0 0
 7 7 9 0 0 0
 5 5 7 0 0 0
 4 4 5 0 0 0
+2 2 4 0 0 0
+
+[lyrics]
+[verse]
+It's a little bit magic
+Like a river of morning geese
+In the new warm mountain
+Where the stone face forms and speaks
+
+[chorus]
+I believe in you
+Even when you need to
+Recoil
+
+[verse]
+When the topsoil
+Is kicking up into the storm
+And the dust goes dancing
+And a billion planets are born
+
+[chorus]
+I believe in you
+Even when you need to
+Recoil
+
+[bridge]
+Just like that
+The moon goes flat
+Big lights in the city shine
+Crying out
+Take me to the limits of your love
+
+[verse instrumental]
+
+[verse]
+There's a dragon in thе phone line
+Coughing up a mighty flame
+With a tonguе of silver, silver
+Calling out my oldest name
+
+[chorus]
+She says, "Hey, you
+Do you remember me too?"
+We were coiling
+
+[bridge instrumental]
+
+[verse]
+It's a little bit magic
+Magic
+A little bit magic
+Magic
