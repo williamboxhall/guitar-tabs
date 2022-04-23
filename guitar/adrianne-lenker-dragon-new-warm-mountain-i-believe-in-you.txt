@@ -1,0 +1,26 @@
+Credit Rafael Leafar: https://youtu.be/sTtJlk8QEEo
+
+tuning: (6) C-G-D-G-A-D (1)
+capo on 2nd fret
+picking pattern:
+
+1|                              x
+2|            x
+3|     x              x
+4|         x               x
+5|                 x
+6| x
+
+apply the picking pattern to these chords
+verses
+2 2 4 0 0 0
+4 4 4 0 0 0
+
+chorus
+0 0 2 0 0 0
+4 4 5 0 0 0
+2 2 4 0 0 0
+9 9 11 0 0 0
+7 7 9 0 0 0
+5 5 7 0 0 0
+4 4 5 0 0 0
