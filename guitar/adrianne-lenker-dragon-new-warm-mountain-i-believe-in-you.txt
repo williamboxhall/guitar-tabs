@@ -63,7 +63,7 @@ Take me to the limits of your love
 [verse]
 There's a dragon in thе phone line
 Coughing up a mighty flame
-With a tonguе of silver, silver
+With a tongue of silver, silver
 Calling out my oldest name
 
 [chorus]
@@ -72,6 +72,7 @@ Do you remember me too?"
 We were coiling
 
 [bridge instrumental]
+[verse instrumental]
 
 [verse]
 It's a little bit magic

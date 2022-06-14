@@ -1,7 +1,7 @@
 Ingydar Live tab by Adrianne Lenker (copied from https://tabs.ultimate-guitar.com/tab/adrianne-lenker/ingydar-tabs-3429734)
 
 This is a weird tuning, kinda of an open C# but with the 5th string tuned up one step
-(C#-G#-C#-F-A#-C#) (Drop-D tuned down a step)
+(C#-G#-C#-F-A#-C#)
 
 The highest three strings are played open, in triplets, with index, middle and ring fingers throughout.
 Meanwhile, the thumb plays the bass notes like a metronome.
