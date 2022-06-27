@@ -1,7 +1,76 @@
-ref: https://www.youtube.com/watch?v=2Fnukm5vYzw&ab_channel=KEXP
+Based of the KEXP live version: https://www.youtube.com/watch?v=7zegqku7Ntc
+EADaBe Capo2
+Picking pattern and chord chart on top and complete tab below
 
-Capo2
+[chords]
+         EADaBe
+Bm/E     020000
+C#m/E    040000
+E7       070000
+E7/C#    970000 -> 990000
+D/B      750000
+C#/A     540000
+Bsus/G#  422000
+Bm/G     320000
+A/F#     204000
 
+[picking pattern]
+e|
+B|
+A|             x
+D|       x
+A|   x     x     x
+E| x   x     x
+   p i p m i p a i
+
+[verse]
+Bm/E  C#m/E Bm/E  C#m/E
+Layer, upon layer
+Bm/E   C#m/E        Bm/E   C#m/E
+Calmly sinks to the ground
+Bm/E        C#m/E   Bm/E  C#m/E
+You thought we were sane
+     Bm/E     C#m/E    E7
+With scepter, cape and crown
+
+[chorus]
+E7/C#    D/B  C#/A Bsus/G#
+Harbored from the  void
+    Bm/G     A/F#
+The lore lives on
+  Bm/G       A/F#          Bm/E
+Impeding the dissonance to resolve
+  C#m/E  Bm/E
+
+[verse]
+Bm/E   C#m/E  Bm/E   C#m/E
+Prayer,  upon prayer
+Bm/E     C#m/E  Bm/E   C#m/E
+Delusive causal chains
+Bm/E        C#m/E       Bm/E  C#m/E
+Withdraw us from what's real
+Bm/E  C#m/E   E7
+Alleviate our pains
+
+[chorus]
+E7/C#    D/B  C#/A Bsus/G#
+Harbored from the  void
+    Bm/G     A/F#
+The lore lives on
+Bm/G    A/F#
+Denying
+Bm/G    A/F#
+Evading
+Bm/G     A/F#
+Impeding us all
+Bm/E
+To move on
+
+[outro]
+C#m/E Bm/E C#m/E Bm/E ...
+
+[tab]
+[intro]
 e|---------------------------------||
 B|---------------------------------||
 A|-------------0---------------0---||
