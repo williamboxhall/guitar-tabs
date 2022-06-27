@@ -12,33 +12,12 @@ E6sus    042000 -> 044000 -> 042000 -> 040000 -> 020000 -> 000000
 Esus(b6) 032000 or 032003
 
 [picking pattern]
-[variation 1]
 1|               x
 2|   x     x       x  x
 3|     x     x          x
 4|             x     x
 5|       x
 6| x
-   p m i p m i p a m p m i
-
-[variation 2]
-1|               x
-2|   x     x       x  x
-3|     x     x          x
-4|             x     x
-5|       x
-6| x
-   p m i p m i p m i p m i
-
-[variation 3]
-1|              x
-2|   x     x     x    x
-3|     x     x     x    x
-4|             x     x
-5|       x
-6| x
-   p m i p m i pam i p m i
-
 
 [verse]
  Esus
