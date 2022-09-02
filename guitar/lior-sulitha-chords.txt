@@ -1,0 +1,72 @@
+Taken from Neil Kelly Tab
+
+tuning: (6) E-A-D-F#-B-E (1)
+
+[picking pattern]
+when 6th string isn't played
+1|             x
+2|      x             x      x
+3|   x      x      x      x
+4|     x      x      x      x
+5| x      x      x      x
+6|
+
+when 6th string i played
+1|             x
+2|      x             x      x
+3|   x      x      x      x
+4|     x      x      x      x
+5|        x             x
+6| x             x
+
+[chords]
+[intro/chorus]
+x 7 9 0 9 0 (E)
+x 4 6 0 x 0
+x 2 4 0 4 0 -> 4 x 4 0 4 0
+6 x 6 7 7 0 -> x 0 6 7 7 0 -> x 0 2 0 0
+0 2 2 0 0 0
+
+[verse]
+x 0 2 0 1 2 -> x 0 2 0 0 0
+0 2 2 0 0 0
+x 2 4 0 4 0
+x 5 7 0 7 0
+3 x 0 0 2 0 -> 3 x 0 0 0 0
+x 4 2 0 0 0 -> x 4 2 0 4 0
+x 6 4 0 0 x
+x 7 6 0 0 x
+x 9 10 10 9 x
+x 11 9 9 9 0
+x 5 4 0 3 0
+x 3 2 0 1 0
+
+[bridge / outro]
+x 0 2 0 2 0
+4 x 6 5 4 4
+2 4 4 2 2 2
+x 4 2 0 0 0
+x 6 4 0 0 x
+x 7 6 0 0 x
+x 10 12 0 12 0
+
+[lyrics]
+Sulitha
+Wishes the rain would melt her skin to clay
+To be washed out into the deepest river
+In the undercurrent forever she will hide
+For the earth became cruel today
+Sulitha
+Heaven isn’t far away
+
+But there will be no cleansing rain
+The river froze and turned to red today
+You close your eyes and see the witch’s blade
+Over and over again
+Sulitha
+Run from your pain
+
+She likes to dance like a floating feather
+While the crushing stones hang over her head
+Sulitha don’t lose your sway
+Sulitha for you I will pray
