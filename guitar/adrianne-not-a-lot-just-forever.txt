@@ -1,0 +1,66 @@
+Credit Rafael Leafar: https://www.youtube.com/watch?v=zONOQMaYGI0&ab_channel=RafaelLeafar
+and https://www.youtube.com/watch?v=3q3RslfPcTs&ab_channel=RafaelLeafar
+here are all the chords shapes you will need (6th to 1st string)
+intro
+x 12 14 0 0 0
+
+verse
+x 10 12 0 0 0
+0 9 7 7 7 0
+x 2 4 0 0 0
+2 2 5 0 0 0
+7 x 7 6 5 0
+
+
+chorus (the numbers in brackets mean that you shift to those frets while the other strings remain the same)
+12 14(..16) 14 0 0 0
+9 9 14(..12..11) 0 0 0
+7 7 11(..9) 0 0 0
+5 5 9(..7) 0 0 0
+
+outro
+0 9 7 7 7 0
+0 7 5 5 5 0
+0 5 4 2 2 2
+
+picking pattern for chords in the chorus, and also for 2 2 5 0 0 0 in the verse
+1 .....x
+2 ...x
+3 ..x....x
+4 .x..x.x
+5 ...x
+6 x
+
+for this chord in the verse 7 x 7 6 5 0, the picking pattern is
+1 .....x
+2 ...x
+3 ..x....x
+4 .x..x.x
+5
+6 x
+
+for all other chords in the verses
+1 .....x
+2 ...x
+3 ..x....x
+4 .x..x.x
+5 x
+6
+
+the tuning is:
+1 C#
+2 A#
+3 F#
+4 C#
+5 G#
+6 C#
+
+my suggestion is to learn the chorus picking pattern first. the other two picking patterns are variations of it.
+
+[chorus tab]
+C#|-----------0----|----------0----|
+A#|-------0--------|---------------|
+F#|-----0---------0|----0---------0|
+C#|---0-----0---14-|--14----14--14-|
+G#|-------14-------|16----14-------|
+C#|-12-------------|---------------|
