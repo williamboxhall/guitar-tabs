@@ -11,7 +11,7 @@ when 6th string isn't played
 5| x      x      x      x
 6|
 
-when 6th string i played
+when 6th string is played
 1|             x
 2|      x             x      x
 3|   x      x      x      x
@@ -40,10 +40,12 @@ x 9 10 10 9 x
 x 11 9 9 9 0
 x 5 4 0 3 0
 x 3 2 0 1 0
+0 2 2 0 0 0
+x 7 9 0 9 0 (E)
 
 [bridge / outro]
 x 0 2 0 2 0
-4 x 6 5 4 4
+4 6 6 5 4 4
 2 4 4 2 2 2
 x 4 2 0 0 0
 x 6 4 0 0 x
