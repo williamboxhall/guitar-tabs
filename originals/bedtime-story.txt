@@ -12,7 +12,7 @@ x34005 -> x34002 -> x34000
 x24032 -> x24030 -> x2403x
 x02023 -> x02022 -> x02020
 
-[verse]
+[intro/verse]
 e|-----------------x---------------|
 B|-----------x---------------x-----|
 G|-------x---------------x---------|
@@ -65,25 +65,25 @@ A|-0-
 D|-0-
 
 [verse]
-Once upon a time, a boy slumbered so peacefully
-Then, as young man, he hibernates excessively
+Once upon a time, a boy slept so peacefully
+Then, as young man, slumbering 10 hours easily
 As he grew older, a cool heat washed over him.
 
 [chorus]
-Then as the years pass by the nights grow fractured.
+As the years passed by the nights grew fractured.
 And spectres found a home to haunt,
 spine tingling down the arms oh,
 toss and turn the pillows over.
-Maybe to-morrow night-things will be
-Like they were always meant to be
+
+[intro]
 
 [verse]
-Sing me a lullaby, Turn down the lights
+Sing me a lullaby, turn the lights down
 Rockaby baby shampoo, suds down the shower wall
 As the hot water leaves the urn, empty again so soon
 
 [chorus]
-Then as the hours pass by the night grows fractured.
+As the hours pass by the night grows fractured.
 And spectres come back home to haunt, spine tingling down the arms oh,
 toss and turn the pillows over.
 Maybe to-morrow night-things will be
