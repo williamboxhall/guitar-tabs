@@ -1,0 +1,36 @@
+Ref: https://www.youtube.com/watch?v=r3BKoiHA_UU
+
+[picking pattern]
+0xx30
+0xx20
+2xx30
+0xx20
+b|-x---x---x--||
+E|---x-------x||
+B|------------||
+G|------------||
+D|-------x----||
+
+x00001
+b|-x---x------||
+E|---------x--||
+B|---x-------x||
+G|-------x----||
+D|------------||
+
+x2x01
+x4x30
+x4x20
+b|-------x----||
+E|---x-------x||
+B|------------||
+G|-x---x---x--||
+D|------------||
+
+[bridge] (see picking for chords above)
+x2x01
+2xx30
+
+
+
+
