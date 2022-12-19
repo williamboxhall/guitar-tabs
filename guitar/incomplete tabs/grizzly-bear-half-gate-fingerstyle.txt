@@ -1,0 +1,122 @@
+Grizzly Bear - Half gate
+Chord chart credit: https://tabs.ultimate-guitar.com/tab/grizzly-bear/half-gate-chords-1188499
+Ref: https://www.youtube.com/watch?v=cDw9Lm_TN3o&ab_channel=MaxMakesMusic
+Fingerstyle arrangement by me
+
+Standard Tuning
+Capo 5
+
+[picking pattern]
+when 4 strings are played
+1|   x   x   x   x
+2|   x   x   x   x
+?|     x       x
+?| x       x
+
+when Em is played
+1|   x   x   x   x
+2|   x   x   x   x
+3|
+4|         x
+5|     x       x
+6| x
+
+[chords]
+   EADGBe
+F  10xx11 -> 10xx10 -> 10xx3x -> 10xx10
+E  022x00
+C  x32x10 -> x32x10
+Dm xx0231
+Bm x24x32
+Bb x13x31
+G  32xx03 -> 32xx00
+
+
+Intro (Chords strummed twice each):
+G Bm Bb Dm
+                  F
+Past the roaring shore
+                Em      C
+I have nothing left to hear
+                     F
+I'm chasing all the words
+                   Em         C
+But everything you say I only see
+                   F
+But honestly it's fine
+               Em    Dm   C
+When I mention how I love you
+     Dm    C              Em
+It's all I do, even as I stray
+
+C
+                     F
+We have the cold to keep
+                Em      C
+I'm not sure I still believe
+                    F
+My most is nothing more
+                    Em     C
+Than a place we've been before
+                       F
+We'll draw and drag it on
+                     Em
+I'm telling you I'm trying
+   Dm         C
+To hear this out
+       Dm               C
+I want nothing more to doubt
+                 Bm
+A little bit of shame
+
+             Bb         C     G
+Which of yourselves is truly gone?
+                    Bm
+And checked out so long
+Bb          Dm
+Unhinged, unwound
+G            Bm
+Come help me on
+Bb                Dm
+To let lie what's done
+G               Bm
+In some great beyond
+Bb                        Dm       G Bm Bb Dm (Intro again)
+You're still there, still as you were
+
+C
+                   F
+At the end of the line
+                    Em         C
+It is as if there's no time at all
+                F
+Nothing left to win
+                Em           C
+Every pleasure burned to the wick
+               F
+Content to be alone
+                 Em        Dm             C
+A quiet picture drawn each day before it ends
+     Dm            C
+To remind me once again
+              Bm
+Why I'm even here
+
+             Bb         C     G
+Which of yourselves is truly gone?
+                    Bm
+And checked out so long
+Bb          Dm
+Unhinged, unwound
+G            Bm
+Come help me on
+Bb                Dm
+To let lie what's done
+G               Bm
+In some great beyond
+Bb                        Dm       G
+You're still there, still as you were
+
+G Bm Bb Dm x3
+
+End on G
