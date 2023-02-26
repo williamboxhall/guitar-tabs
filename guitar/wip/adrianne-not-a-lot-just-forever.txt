@@ -1,45 +1,9 @@
 Credit Rafael Leafar: https://www.youtube.com/watch?v=zONOQMaYGI0&ab_channel=RafaelLeafar
 and https://www.youtube.com/watch?v=3q3RslfPcTs&ab_channel=RafaelLeafar
-here are all the chords shapes you will need (6th to 1st string)
-intro
-x 12 14 0 0 0
+C#G#C#F#A#C# (DGDGBD down half a step) capo0
 
-verse
-x 10 12 0 0 0
-0 9 7 7 7 0
-x 2 4 0 0 0
-2 2 5 0 0 0
-7 x 7 6 5 0
-
-
-chorus (the numbers in brackets mean that you shift to those frets while the other strings remain the same)
-12 14(..16) 14 0 0 0
-9 9 14(..12..11) 0 0 0
-7 7 11(..9) 0 0 0
-5 5 9(..7) 0 0 0
-
-outro
-0 9 7 7 7 0
-0 7 5 5 5 0
-0 5 4 2 2 2
-
-picking pattern for chords in the chorus, and also for 2 2 5 0 0 0 in the verse
-1 .....x
-2 ...x
-3 ..x....x
-4 .x..x.x
-5 ...x
-6 x
-
-for this chord in the verse 7 x 7 6 5 0, the picking pattern is
-1 .....x
-2 ...x
-3 ..x....x
-4 .x..x.x
-5
-6 x
-
-for all other chords in the verses
+[picking pattern]
+when 5 strings are played (most chords in verse)
 1 .....x
 2 ...x
 3 ..x....x
@@ -47,20 +11,107 @@ for all other chords in the verses
 5 x
 6
 
-the tuning is:
-1 C#
-2 A#
-3 F#
-4 C#
-5 G#
-6 C#
+when 6 strings are played (chorus and 2 2 5 0 0 0 in the verse)
+1 .....x
+2 ...x
+3 ..x....x
+4 .x..x.x
+5 ...x
+6 x
 
-my suggestion is to learn the chorus picking pattern first. the other two picking patterns are variations of it.
+[intro]
+x 12 14 0 0 0
 
-[chorus tab]
+[verse]
+x 10 12 0 0 0
+x 9 7 7 7 0
+x 2 4 0 0 0
+2 2 5 0 0 0
+x 0 7 6 5 0
+
+[chorus]
+12 14(..16) 14 0 0 0
+9 9 14(..12..11) 0 0 0
+7 7 11(..9) 0 0 0
+5 5 9(..7) 0 0 0
+
+[outro]
+0 9 7 7 7 0
+0 7 5 5 5 0
+0 5 4 2 2 2
+
+[chorus instrumentation tab variations]
+C#|-----------0----|----------0----|
+A#|-------0--------|------0--------|
+F#|-----0---------0|----0---------0|
+C#|---0-----0---14-|--14----14--14-|
+G#|-------14-------|------14-------|
+C#|-12-------------|12-------------|
+
+C#|-----------0----|----------0----|
+A#|-------0--------|------0--------|
+F#|-----0---------0|----0---------0|
+C#|---0-----0---14-|--14----14--14-|
+G#|-------14-------|------16-------|
+C#|-12-------------|12-------------|
+
+C#|-----------0----|----------0----|
+A#|-------0--------|------0--------|
+F#|-----0---------0|----0---------0|
+C#|---0-----0---14-|--14----14--14-|
+G#|-------14-------|------16-------|
+C#|-12-------------|12-------------|
+
 C#|-----------0----|----------0----|
 A#|-------0--------|---------------|
 F#|-----0---------0|----0---------0|
 C#|---0-----0---14-|--14----14--14-|
 G#|-------14-------|16----14-------|
 C#|-12-------------|---------------|
+
+C#|-----------0----|----------0----|
+A#|-------0--------|---------------|
+F#|-----0---------0|----0---------0|
+C#|---0-----0---14-|--14----0---0--|
+G#|-------14-------|16----14-------|
+C#|-12-------------|---------------|
+
+[Lyrics]
+[Verse 1]
+Through your eyes I see
+A smile you bring to me
+To your joy I tether
+
+[Chorus]
+Not a lot, just forever
+Intertwined sewn together
+Like the rock bears the weather
+Not a lot, just forever
+
+[Verse 2]
+My dog barks wildly
+To protect my infancy
+From my ex-believer
+And I try to calm the wolf
+To remind her I am both
+Still she tears at my sweater
+
+[Chorus]
+Not a lot, just forever
+Intertwined, sewn together
+As the wren sheds her feather
+Not a lot, just forever
+
+[Verse 3]
+And your dearest fantasy
+Is to grow a baby in me
+I could be a good mother
+And I wanna be your wife
+So I hold you to my knife
+And I steal your letter
+
+[Chorus]
+Not a lot, just forever
+Intertwine some together
+As the rock bears the weather
+Not a lot, just forever
