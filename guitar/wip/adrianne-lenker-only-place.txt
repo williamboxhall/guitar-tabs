@@ -4,7 +4,7 @@ Guitar cover ref: https://www.youtube.com/watch?v=K3lmBa3R6CA&list=PLHoF8ne1Vr7s
 Transposed by Rafeal Leafar, modified by me
 
 tuning:
-(6th) C# Ab C# F Bb C# (1st) capo 3, or
+(6th) C# G# C# F A# C# (1st) capo 3, or
 (6th) D A D F# B D (1st) capo 2
 
 

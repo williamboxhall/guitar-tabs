@@ -1,0 +1,131 @@
+standard, capo 1
+
+[picking pattern]
+[verse]
+[simple a and b variations]
+1|
+2|   x   x   x   x   x   x   x   x
+3|   x   x   x   x   x   x   x   x
+4|     x       x       x       x
+5| a       x       x       x
+6| b
+
+
+[complex a and b variations with chord variations]
+                 1       2       3       4       5       5       5
+1|               x       x       x       x       x       x       x
+2|   x   x   x   x       x       x       x       x       x       x
+3|   x   x   x       x       x       x       x       x       x
+4|     x       x       x       x       x       x       x       x
+5| a       x       x       x       x       x       x       x
+6| b
+
+[bridge with one string unplayed, with b variation]
+1|   b   b   b   b
+2|   x   x   x   x
+3|   x   x   x   x
+4|     x       x
+5| x       x
+
+
+
+[chords]
+[verse]
+1         2         3         4         5
+133200 -> 133203 -> 133200 -> 133230 -> 133200 (F shape)
+022100 -> 022103 -> 022100 -> 022130 -> 022100 (E shape)
+320033 -> 320034 -> 320033 -> 320030 -> 320033 (G shape)
+x02210 -> x02213 -> x02212 -> x02210 -> x02210 (Am shape)
+
+[bridge]
+x32330 (C)
+x10330 (Bb)
+x03331 (A)
+3x3330 (Gm7)
+3x5450 (G7)
+1x3230 (F6)
+then back into verse now including the 6th string root notes for a darker sound
+
+[outro]
+A harmonic minor, starting on D and descending: D C B A G# F E (skip high D)
+E|-
+B|-
+G|-
+D|-
+A|-
+E|-
+
+[other ideas / chords]
+xx0330 (Dm)
+x30330 (C)
+
+Dm and other chords from tnis video https://www.youtube.com/watch?v=AnRTmEuarDo&ab_channel=nutshell0052
+
+E|-
+B|-
+G|-
+D|-
+A|-
+E|-
+
+
+
+Soaring over the dunes, red beaked and hungry to dine
+A birds eye view, scans the lines, the ebb and flow of the tide,
+....
+Something catches his eye...
+
+His targets lie on the sand, their greasy cheeks sizzle under the sun
+The prize is a packet, a steamy container, the chips are contained there
+Our gull and his gullet are grumblin', the food as it's eaten is tumbling
+He takes his aim...
+
+His victims grow closer and nearer the moment is nigh
+he's locked on his target, he swoops and he swoops and he swoops and
+...
+But he's spotted...
+
+<something about radars and other airplane military metaphors>
+
+<some type of bridge instrumental as the seagull gives up and searches elsewhere>
+
+
+Scratch notes:
+
+<verse 1>
+unwilling victims unfurl their towels, and steamy packets (of chips)
+greasy cheeks in the sun
+
+sand
+
+he swoops and he swoops and he swoops, down to the
+He's locked his target,
+
+<verse 2>
+Basic story idea: gull finds a group people barbecuing, looks (or smells, althouogh birds can't smell) delicous
+He sees the packet of sausages on the table with one of them flopping out
+He gets the sausage in his mouth and leaves the scene with a feeling of victory
+
+It turns out the sausage wasn't cooked and it's now lodged in his throat, unchewable
+The bird flails in hilarious ways on the ground trying to undo it's mistake, the mischevious
+sausage not able to be chewed or broken is undoing this poor bird.
+
+The bird takes flight, hurting corkscrew, feathers flying, total chaos as it fights with this internal
+sausage, it takes to the sky and heads towards the ocean where it dives down, performing a kind of
+self heimlich manouvre, the hotdog comes out, unappealing to the sharks and fishes who only wish to eat _real_ food
+
+The bird searches on
+
+<instrumental outro>
+
+sausage throat
+
+feathers flying
+
+hurtling corkscrewing parabola as the avian takes to the sky
+the sausage is flexing and bending, unbreakable, unshakeable
+trouble
+
+this mess is all over the place as dives for the water
+
+

@@ -7,29 +7,37 @@ Standard Tuning
 Capo 5
 
 [picking pattern]
-when 4 strings are played
+when 2 strings are played
 1|   x   x   x   x
 2|   x   x   x   x
 ?|     x       x
 ?| x       x
 
-when Em is played
+when 6 strings (Em) are played
 1|   x   x   x   x
 2|   x   x   x   x
-3|
+3|   x   x   x   x
+4|         x
+5|     x       x
+6| x
+
+when 5 strings are played
+1|   x   x   x   x
+2|   x   x   x   x
+3|   x   x   x   x
 4|         x
 5|     x       x
 6| x
 
 [chords]
    EADGBe
-F  10xx11 -> 10xx10 -> 10xx3x -> 10xx10
-E  022x00
-C  x32x10 -> x32x10
+F  10x211 -> xxxx10 -> xxxx(h3)x -> xxxx(p1)x
+E  022000
+C  x32010 -> x30210
 Dm xx0231
-Bm x24x32
+Bm x24432
 Bb x13x31
-G  32xx03 -> 32xx00
+G  3x0x03 -> 3x0x00
 
 
 Intro (Chords strummed twice each):

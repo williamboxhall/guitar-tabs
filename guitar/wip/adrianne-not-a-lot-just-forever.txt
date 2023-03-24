@@ -1,6 +1,6 @@
 Credit Rafael Leafar: https://www.youtube.com/watch?v=zONOQMaYGI0&ab_channel=RafaelLeafar
 and https://www.youtube.com/watch?v=3q3RslfPcTs&ab_channel=RafaelLeafar
-C#G#C#F#A#C# (DGDGBD down half a step) capo0
+C#G#C#F#A#C# (DADGBD down half a step) capo0
 
 [picking pattern]
 when 5 strings are played (most chords in verse)
@@ -41,6 +41,7 @@ x 0 7 6 5 0
 0 5 4 2 2 2
 
 [chorus instrumentation tab variations]
+[easy]
 C#|-----------0----|----------0----|
 A#|-------0--------|------0--------|
 F#|-----0---------0|----0---------0|
@@ -48,20 +49,7 @@ C#|---0-----0---14-|--14----14--14-|
 G#|-------14-------|------14-------|
 C#|-12-------------|12-------------|
 
-C#|-----------0----|----------0----|
-A#|-------0--------|------0--------|
-F#|-----0---------0|----0---------0|
-C#|---0-----0---14-|--14----14--14-|
-G#|-------14-------|------16-------|
-C#|-12-------------|12-------------|
-
-C#|-----------0----|----------0----|
-A#|-------0--------|------0--------|
-F#|-----0---------0|----0---------0|
-C#|---0-----0---14-|--14----14--14-|
-G#|-------14-------|------16-------|
-C#|-12-------------|12-------------|
-
+[fancy instrumentation she plays that sounds great]
 C#|-----------0----|----------0----|
 A#|-------0--------|---------------|
 F#|-----0---------0|----0---------0|
@@ -69,6 +57,15 @@ C#|---0-----0---14-|--14----14--14-|
 G#|-------14-------|16----14-------|
 C#|-12-------------|---------------|
 
+[fancy but matching picking pattern]
+C#|-----------0----|----------0----|
+A#|-------0--------|------0--------|
+F#|-----0---------0|----0---------0|
+C#|---0-----0---14-|--14----14--14-|
+G#|-------14-------|------16-------|
+C#|-12-------------|12-------------|
+
+[she plays this sometimes too]
 C#|-----------0----|----------0----|
 A#|-------0--------|---------------|
 F#|-----0---------0|----0---------0|
@@ -111,6 +108,25 @@ So I hold you to my knife
 And I steal your letter
 
 [Chorus]
+Not a lot, just forever
+Intertwine some together
+As the rock bears the weather
+Not a lot, just forever
+
+[Verse 4]
+So I bash around the house
+And the poison stains my mouth
+She comes, I let her
+And we share a paradise
+And I roll them once or twice
+Can't get much better
+
+[Chorus]
+Not a lot, just forever
+Intertwine some together
+As the rock bears the weather
+Not a lot, just forever
+
 Not a lot, just forever
 Intertwine some together
 As the rock bears the weather
