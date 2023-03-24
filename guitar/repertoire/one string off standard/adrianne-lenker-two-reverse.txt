@@ -185,27 +185,40 @@ D|4-----4---4-----4-------0-2-----------2-----2-----2--------2---------2--------
 A|----3---------2-------2-------------4-----4-----4-------4--------4-------------------|
 E|--------------------0----------------------------------------------------------------|
 
-************************************
+[Verse 1]
+Lay me down so
+To let you leave
+Tell me lies
+I wanna see your eyes
+Is it a crime to say
+I still need you?
+Crime, wanna feed you
 
-| x   Dead note
-| g   Grace note
-| (n) Ghost note
-| h   Hammer-on
-| p   Pull-off
-| r   Release
-| >   Accented note
-| t   Tapping
-| b   Bend
-| br  Bend release
-| pb  Pre-bend
-| pbr Pre-bend release
-| /   Slide up
-| \   Slide down
-| ~   Vibrato
-| s   Slap
-| P   Pop
-| PM  Palm mute
-| TR  Trill
-| N   Tremolo
+[Chorus]
+Light blue, dark blue, grey
+Crimson trail
+Straight through, stay don't stray
 
-************************************
+[Verse 2]
+Grandmother, Juniper
+Tell to me your recipe
+Is it a cry I hear
+From the deep wood?
+Crying, reappear from
+The weeds
+
+[Chorus]
+Light blue, dark blue, grey
+Crimson trail
+Straight through, stay don't stray
+
+[Verse 3]
+Through the jail
+See the sun
+Flat as a knife
+Cold and white
+To my home, two rivers
+Through my home, two reverse
+Is it a crime to do
+What you ask me to?
+Crime
