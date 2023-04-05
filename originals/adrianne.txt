@@ -1,0 +1,18 @@
+Stripped Back
+
+Chords
+   D  A  D  G  B  E     Capo2
+--verse
+   7  7  10 0  0  0 -> 779000
+   5  5  9  0  0  0 -> 557000
+   3  3  7  0  0  0 -> 335000
+   2  2  5  0  0  0 -> 224000
+   0  0  4  0  3  0
+
+picking pattern (adrianne's)
+1 .....x
+2 ...x
+3 ..x....x
+4 .x..x.x
+5 ...x
+6 x
