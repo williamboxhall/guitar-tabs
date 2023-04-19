@@ -1,18 +1,60 @@
-Stripped Back
+Adrianne
 
 Chords
    D  A  D  G  B  E     Capo2
 --verse
+   3  3  7  0  0  0
+   5  5  9  0  0  0
    7  7  10 0  0  0 -> 779000
    5  5  9  0  0  0 -> 557000
    3  3  7  0  0  0 -> 335000
    2  2  5  0  0  0 -> 224000
-   0  0  4  0  3  0
+   0  5  4  0  3  0
+--chorus
+   x  10 9  0  8  0
+   x  8  7  0  6  0
+   x  7  5  0  5  0
+   x  5  4  0  3  0
+--outro
+   9  9  12 0  0  0
+   5  2  0  0  0  x  <- home (Amaj, or Gmaj no capo)
 
-picking pattern (adrianne's)
+
+[picking patterns (taken from Adrianne Lenker)
+[6 strings]
 1 .....x
 2 ...x
 3 ..x....x
 4 .x..x.x
 5 ...x
 6 x
+
+[5 strings]
+1 .....x
+2 ...x
+3 ..x....x
+4 .x..x.x
+5 x..x
+
+
+scratch notes
+
+this song is about the fact that in this life you can't truly control your circumstances or your relationships, people
+move away or commence relationships, and disconnection is unavoidable. Hope comes when one centres back on a solid
+relationship with onesself and the small rituals and daily life activities that bring simple, mindful pleasures.
+
+[verse]
+All of your friends are interesting enough to leave
+to Copenhagen, Mexico, Alice Springs, Eindhoven and the folding mattress of an aging van with transmission issues
+Maybe the reason you love them is the reason you're missing them
+
+[chorus]
+Hope comes when one centres back on a solid
+relationship with onesself and the small rituals and daily life activities that bring simple, mindful pleasures
+Get out of bed and open the curtains, turn on the kettle slice up the grapefruit
+
+[verse]
+When you friend kicks you out on the street, covid cancels all your travel plan,
+and the person
+
+
