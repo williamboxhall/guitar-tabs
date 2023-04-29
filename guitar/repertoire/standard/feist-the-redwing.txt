@@ -1,0 +1,94 @@
+ref: https://www.youtube.com/watch?v=AiqBr07rqjE&ab_channel=FeistVEVO
+ref: https://www.youtube.com/watch?v=oFsFht0Z3mw&ab_channel=MichelbergerHotel
+
+capo 3
+
+  C/G
+e|-3-3-1-0---0-------0-----||
+B|---------------1-------1-||
+G|-4-4-2-0-0---------------||
+D|-------------2-------2---||
+A|-------------------------||
+E|---------3-------3-------||x2
+  F (or Fm)
+e|-0-0---------------------||
+B|-----3-0---1-------1-----||
+G|-0-0-----2-----2-------2-||
+D|-----3-0-----------------||
+A|-------------------------||
+E|---------1---1---1---1---||x2
+
+[Chorus]
+   Em (or E)               Am(over F#) -> F
+e|-------------------------------------------------||
+B|-------------------0-----1-------1---------1-----||
+G|-------------------------2-----2-2-----2-------2-||
+D|-----2---------2-------2-2-------3---3-------3---||
+A|-------------2-------2--(0)--0-------------------||
+E|-0-------0-------0------(2)------1-------1-------||x2
+
+[verse intrumentation variations]
+e|-----1-0---------------------|
+B|---------3-0---1-------1-----|
+G|-0p2---------2-----2-------2-|
+D|---------3-0-----------------|
+A|-----------------------------|
+E|-------------1---1---1---1---|
+
+e|-0-0---------------------|
+B|-----3-0---1-------1-----|
+G|-0-0-----2-----2-------2-|
+D|-----3-0-----------------|
+A|-------------------------|
+E|---------1---1---1---1---|
+
+e|-0-3-3-1-0---0-----2-3-----|
+B|-----------------1-------1-|
+G|---4-4-2-0-0---------------|
+D|---------------2-------2---|
+A|---------------------------|
+E|-----------3-------3-------|
+
+
+[verse]
+Came along the winter
+And killed off all my language
+The shadows got long on the walk
+Across the ice on the lake
+
+The future of December
+Is memories of last summer
+And I stoke it like a wood stove
+I'm always wanting more
+
+[chorus]
+The endless weight of my life
+Can be lifted up like wings
+The underneath of my life
+An effortlessness in it sings
+
+[verse]
+I live up to what I sing to
+As if I'm telling the truth
+I imagine who is listening
+And it's not all of you that I mean
+
+"La lala la" in the morning
+When the blinds are opened
+That's when I see the redwing
+And the redwing sees me too
+
+[chorus]
+The endless weight of our lives
+Can be lifted up like wings
+The underneath of our lives
+An effortlessness in it sings
+
+<la la la la la la in rounds optionally replace F with Fm>
+
+[verse]
+California winter
+It brought me back my language
+And then once I'd spoken the truth
+That's when the redwing landed
+And she sang "La la la la la la"
