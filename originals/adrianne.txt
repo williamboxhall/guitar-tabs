@@ -3,6 +3,11 @@ Adrianne
 Chords
    D  A  D  G  B  E     Capo2
 --verse
+  x  10 9  0  8  0
+  x  8  7  0  6  0
+  x  7  5  0  5  0
+  x  5  4  0  3  0
+--chorus
    3  3  7  0  0  0
    5  5  9  0  0  0
    7  7  10 0  0  0 -> 779000
@@ -10,11 +15,7 @@ Chords
    3  3  7  0  0  0 -> 335000
    2  2  5  0  0  0 -> 224000
    0  5  4  0  3  0
---chorus
-   x  10 9  0  8  0
-   x  8  7  0  6  0
-   x  7  5  0  5  0
-   x  5  4  0  3  0
+
 --outro
    9  9  12 0  0  0
    5  2  0  0  0  x  <- home (Amaj, or Gmaj no capo)
@@ -22,19 +23,28 @@ Chords
 
 [picking patterns (taken from Adrianne Lenker)
 [6 strings]
-1 .....x
-2 ...x
-3 ..x....x
-4 .x..x.x
-5 ...x
-6 x
+e|-----------x-----|----------x-----|
+B|-------x---------|------x---------|
+G|-----x---------x-|----x---------x-|
+D|---x-----x---x---|--------x---x---|
+A|-------x---------|--x---x---------|
+D|-x---------------|x---------------|
 
-[5 strings]
-1 .....x
-2 ...x
-3 ..x....x
-4 .x..x.x
-5 x..x
+[5 strings (slide prematurely to the next chord sounding the 2nd string]
+e|-----------x-----|-----------x-----|
+B|-------x-------x-|-------x-------y-|
+G|-----x-----------|-----x-----------|
+D|---x-----x---x---|---x-----x---x---|
+A|-x-----x---------|-x-----x---------|
+D|-----------------|-----------------|
+
+[6 string descending figure with sliding 4th string]
+e|-----------x-----|
+B|-------x---------|
+G|-----x-----------|
+D|---x-----x---y---|
+A|-------x---------|
+D|-x---------------|
 
 
 scratch notes
@@ -58,3 +68,9 @@ When you friend kicks you out on the street, covid cancels all your travel plan,
 and the person
 
 
+
+
+[chorus]
+take the knife and peel back the skin to the ruby red flesh lying beneath
+scatter the brittle fragments over the fire
+steep the bergamot

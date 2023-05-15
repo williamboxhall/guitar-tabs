@@ -1,3 +1,5 @@
+Ref: https://www.youtube.com/watch?v=eT0q8f7pD_o
+Drop C# tuning, Capo 0 (Drop D down half a step)
 
 [intro]
 D#|-------0--0--0--0--0----|
