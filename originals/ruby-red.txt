@@ -1,4 +1,4 @@
-Adrianne
+Ruby Red
 
 Chords
    D  A  D  G  B  E     Capo2
@@ -17,11 +17,10 @@ Chords
    0  5  4  0  3  0
 
 --outro
-   9  9  12 0  0  0
-   5  2  0  0  0  x  <- home (Amaj, or Gmaj no capo)
+   5  2  0  0  0  x  <- home (Amaj, or Gmaj shape no capo)
 
 
-[picking patterns (taken from Adrianne Lenker)
+[picking patterns]
 [6 strings]
 e|-----------x-----|----------x-----|
 B|-------x---------|------x---------|
@@ -45,6 +44,12 @@ G|-----x-----------|
 D|---x-----x---y---|
 A|-------x---------|
 D|-x---------------|
+
+[chorus]
+take the knife and peel back the skin to the ruby red flesh lying beneath
+scatter the brittle fragments over the fire
+steep the bergamot something something
+
 
 
 scratch notes
@@ -70,7 +75,3 @@ and the person
 
 
 
-[chorus]
-take the knife and peel back the skin to the ruby red flesh lying beneath
-scatter the brittle fragments over the fire
-steep the bergamot
