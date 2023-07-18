@@ -68,36 +68,56 @@ G|------0-----3-----2----|0h2-3-----2-----0------|0----2---2--------------|-----
 D|0h2--------------------|----------------------3|---0--------------------|-----------|
 
 [bridge]
-D|1-------------------------||
-A|------0-----0-----0-----0-||
-G|----0-----0-----0-----0---||
-D|--1-----1-----1-----1-----||
-G|--------------------------||
-D|--------------------------||x2
+D|1------------------------------||
+A|------0-----0-----0-----0-----0||
+G|----0-----0-----0-----0-----0--||
+D|--1-----1-----1-----1-----1----||
+G|-------------------------------||
+D|-------------------------------||x2
 
-D|0------------------------||0-
-A|------0-----0-----0-----0||--
-G|----0-----0-----0-----0--||--
-D|--0-----0-----0-----0----||--
-G|-------------------------||--
-D|-------------------------||--x2 then from start bridge once then straight into verse
+D|0------------------------------||0-
+A|------0-----0-----0-----0-----0||--
+G|----0-----0-----0-----0-----0--||--
+D|--0-----0-----0-----0-----0----||--
+G|-------------------------------||--
+D|-------------------------------||--x2 then from start bridge once then straight into verse
 
 [lyrics]
-[verse]
-over the ocean under the moon
+[verse vocal phrasing 1]
+over the ocean she glides
 a dark horizon swelling and loom-ing
-he's setting a heading toward the typhoon
+she turns t'ward the eye of the storm
+the rider glidin' through the cool air
+
+dump:
+
+[verse vocal phrasing 2]
+under the moonlight she rides
+a dark horizon swelling and loom-ing
+she turns her head up t'wards the sky
 the rider glidin' through the cool air
 
 [chorus]
-waves crash over him
+[vocal phrasing 1]
+waves crash over her
 as the night wears on
 
-lurching frantically
-as he spins the wheel
+[vocal phrasing 2]
+on, through it all
+through it all
+through it all
 
-red eyes stinging him
-on the way back home (as he snakes his way back home)
+[vocal phrasing 3]
+giving up
+taking the higher road
+
+[vocal phrasing 1]
+lurching frantically
+as she spins the wheel
+
+[vocal phrasing 1]
+red eyes stinging her
+as he snakes her way back home
 
 
 
