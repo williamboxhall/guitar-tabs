@@ -95,25 +95,6 @@ D|-------------------------------||--x2 then from start bridge once then straigh
 
 [lyrics]
 [verse]
-under the moonlight she rides
-a dark horizon swelling and loom-ing
-she turns her head up t'wards the sky
-the rider glidin' through the cool air
-
-[chorus]
-rain drops pummel her, as the night wears on
-on, through it all, through it all, through it all
-lurching violently as she yanks the reins
-giving up taking the higher road
-red eyes stinging her, as she snakes her way back home
-
-[bridge?]
-land
-turns to sea
-leather
-turns to cedar
-
-[verse]
 over the ocean she glides
 a dark horizon swelling and loom-ing
 she turns t'ward the eye of the storm
@@ -123,12 +104,42 @@ the rider glidin' through the cool air
 waves crash over her, as the night wears on
 on, through it all, through it all, through it all
 lurching violently as she heaves the oars
-giving up taking the higher road
-red eyes stinging her, as he snakes her way back home
+giving up on smooth sailing
+red eyes stinging her, as she snakes her way back home
 
+[bridge?]
+land
+turns to sea
+leather
+turns to cedar
 
+[verse]
+under the moonlight she rides
+a dark horizon swelling and loom-ing
+she turns her head up t'ward the sky
+the rider glidin' through the cool air
 
+[chorus]
+rain drops pummel her, as the night wears on
+on, through it all, through it all, through it all
+lurching violently as she yanks the reins
+giving up on taking the higher road
+red eyes stinging her, as she snakes her way back home
 
+[verse]
+up through the rain clouds she flies
+a dark horizon swelling and loom-ing
+her palm shields her gaze from the light
+the rider glidin' through the cool air (giant wings cut through the cool air)
+
+[chorus]
+gale winds shredding her, as the night wears on
+on, through it all, through it all, through it all
+lurching violently as she strains her wings
+giving up on clear skies ahead
+red eyes stinging her, as she snakes her way back home
+
+[outro?]
 
 
 [brainstorm]
