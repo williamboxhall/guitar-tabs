@@ -6,7 +6,7 @@ Intro 2 bars of b minor
 VERSE
 
 Bm7			    D/A				Gmaj7		   em9
-3/4 timing
+6/4 timing
 e|------------------------|-----------------------|-----------------------|-----------------------|
 A|-------------0----------|------------0----------|------------0----------|------------0----------|
 G|-------0---------------0|------0---------------0|------0---------------0|------0---------------0|
@@ -117,7 +117,7 @@ Water forms a standing wave. Water forms, stand and wave.
 
 Water forms a standing wave, a standing wave.
 Cat ears and a red silk gown
-Fluffy, grey, soft and warm
+Fluffy, grey, soft and warm, soft and warm
 Is it the drier or your pheromones?
 [Instrumental / Melodic version of the tune]
 
@@ -150,7 +150,7 @@ Curiosity cured the cat.
 
 Curiosity killed the
 Cat ears and a red silk gown
-Is it dried up all your pheromones
+I can no longer smell your pheromones
 Water forms, stand and wave
 <Instrumental / Melodic version of the tune>
 
