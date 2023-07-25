@@ -7,72 +7,67 @@ tuning:
 (6th) C# G# C# F A# C# (1st) capo 3, or
 (6th) D A D F# B D (1st) capo 2
 
-
 chord shapes
+[intro / interlude]
 x 2 5 0 0 0
 x 2 4 0 0 0
 x 5 2 0 0 0 -> x 4 0 0 0 0
 x 2 2 2 0 0
-
-
 x 5 5 5 0 0 -> x 5 5 7 0 0
 x 2 2 2 0 0 -> x 2 2 3 0 0
+
+[verse]
 x 0 5 3 2 0
 x 0 4 3 2 0
-x 0 2 3 2 0 -> x 0 2 3 3 0
-x 0 4 3 3 0
-
-
-5 0 0 0 0 0
-4 0 0 0 0 0
+x 0 2 3 2 0 (-> x 0 2 3 3 0) optional
+x 0 4 3 2 0 (-> x 0 4 3 3 0) optional
+5 x 0 0 0 0
+4 x 0 0 0 0
 2 2 5 0 0 0
 
+[chorus]
+x 5 2 0 0 0 -> x 4 0 0 0 0
+x 2 2 2 0 0
+x 5 5 5 0 0 -> x 5 5 7 0 0
+x 2 2 2 0 0
+x 5 5 5 0 0 -> x 5 5 7 0 0
 
+[bridge]
 x 4 7 0 5 0
 x 5 8 0 7 0
-x 2 5 0 3 0
-4 x 7 0 5 0
-7 x 10 0 8 0
-2 x 5 0 3 0
+x 2 5 0 3 0 || repeat from start x3
+x 4 7 0 5 0
+x 0 10 0 8 0
+2 2 5 0 0 0
 x 0 5 3 2 0 -> x 0 5 3 3 0 -> x 0 5 3 2 0 -> x 0 5 3 0 0
 
-
 picking pattern for chords starting with x (where 6th string is not played):
-1 |                    x |
-2 |    x                 |
-3 |             x        |
-4 |    x          x     |
-5 |x       x            |
-6 |                       |
-
-
-
+C#|---------------X|
+A#|-----x----------|
+F |-----------x----|
+C#|-----x-------x--|
+G#|-x-------x------|
+C#|----------------|
 
 picking pattern for full chords (where all strings are played - no x)
-1 |                    x |
-2 |    x                 |
-3 |             x        |
-4 |    x          x     |
-5 |         x            |
-6 |x                     |
-
+C#|---------------X|
+A#|-----x----------|
+F |-----------x----|
+C#|-----x-------x--|
+G#|---------x------|
+C#|-x--------------|
 
 picking pattern for chords where 5th string is not played (x)
-1 |                    x |
-2 |    x                 |
-3 |             x        |
-4 |    x          x     |
-5 |                       |
-6 |x       x            |
+C#|---------------X|
+A#|-----x----------|
+F |-----------x----|
+C#|-----x-------x--|
+G#|----------------|
+C#|-x-------x------|
 
-
-hope this makes sense. i apologise that i don't have a tab for it. if you get the picking pattern right, you can apply it to various chords with only minor adjustments. which is why i separate the chord shapes from the picking pattern. basically, you press the chords, then apply the picking pattern. im inclined to think that looking at a tab for this would be even more complicated to figure out. this makes sense to me and i hope you get it.
-
-
-
-Specifics on the slide 0.20 to 0.24
+Instrumentation in the intro/chorus
 C#|-------0--------|--------------0|
-A#|---------------0|----0----------|
+A#|----------------|----0----------|
 F |-5h7-------7----|----------5----|
 C#|-----5-------5--|----5-------5--|
 G#|-5-------5------|5-------5------|
@@ -80,14 +75,12 @@ C#|----------------|---------------|
 
 C#|----------------|--------------0|
 A#|-------0--------|----0----------|
-F |-2h3-------3---2|----------2----|
+F |-2h3-------3----|----------2----|
 C#|-----2-------2--|----2-------2--|
 G#|-2-------2------|2-------2------|
 C#|----------------|---------------|
 
-
-0.51 to 0.56
-
+Optional instrumentation in the verse
 C#|-----------0--|--------0------|
 A#|-----2h3------|--2h3----------|
 F |--------------|------------3--|
@@ -102,7 +95,8 @@ C#|-----4-------4|------4-------4|
 G#|-0-------0----|--0-------0----|
 C#|--------------|---------------|
 
-
+[lyrics]
+{Verse 2}
 What if all the worlds in space
 Would melt into one single place
 And intertwine the human race
