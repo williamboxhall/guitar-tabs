@@ -1,11 +1,18 @@
 Ingydar Live tab by Adrianne Lenker (copied from https://tabs.ultimate-guitar.com/tab/adrianne-lenker/ingydar-tabs-3429734)
 
-This is a weird tuning, kinda of an open C# but with the 5th string tuned up one step
-(C#-G#-C#-F-A#-C#)
+(C#-G#-C#-F-A#-C#) (or just  D A D F# B D)
 
-The highest three strings are played open, in triplets, with index, middle and ring fingers throughout.
-Meanwhile, the thumb plays the bass notes like a metronome.
-It's hard at first to make the two parts work together, but when you master it it gives a mesmerizing effect.
+Picking pattern:
+Strings 4 to 6 go like this
+4: --x--x--x--x
+5: ---x------x-
+6: x------x------
+for the second chord (x75700), instead of playing the 6th string, play the 5th
+
+Strings 1 to 3 go like this for the second chord (x75700); you could use this pattern for the other chords too but it is a little bit different (not quite sure)
+1: x--x--x--x--x---
+2: -x--x--x--x--x-x
+3: --x--x--x--x--x
 
 Chord shapes are
 F#maj7  D#m9   Dm7add6 G#6 A#m
@@ -16,6 +23,7 @@ F#maj7  D#m9   Dm7add6 G#6 A#m
 5       7      7       7   9
 5       x      x       7   9
 
+[lyrics]
 Fragilely, gradually and surrounding
 The horse lies naked in the shed
 Evergreen anodyne decompounding
@@ -66,8 +74,8 @@ e|0-----0-------0-------0-------------0-----0-----0-----0-----0---|
 B|--0-------0-------0-------0-----0-----0-----0-----0-----0-----0-|
 G|----------------------------------7-----7-----7-----7-----7-----|
 D|--9---9---9---9---9---9---9---0---5---5---5---5---5---5---5---5-|
-A|--------------------------------7---7---7---7---7---7---7---7---|
-E|5---5---5---5---5---5---5---5-----------------------------------|
+A|----5-------5-------5-------5---7---7---7---7---7---7---7---7---|
+E|5-------5-------5-------5---------------------------------------|
 
   F#maj7                          D#m9
 e|0-----0-----0-----0-----0-----0-----0-----0-----0-----0-----0---|
