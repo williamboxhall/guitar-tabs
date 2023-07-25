@@ -107,12 +107,6 @@ lurching violently as she heaves the oars
 giving up on smooth sailing
 red eyes stinging her, as she snakes her t'ward land
 
-[bridge?]
-land
-turns to sea
-leather
-turns to cedar
-
 [verse]
 under the moonlight she rides
 thunder chasing lightning above her
@@ -161,3 +155,9 @@ lurching frantically / violently
 he sets a heading for the typhoon
 the bow pointed at the typhoon
 plots a course for the typhoon
+
+[bridge?]
+land
+turns to sea
+leather
+turns to cedar
