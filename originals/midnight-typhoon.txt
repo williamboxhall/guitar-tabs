@@ -93,6 +93,14 @@ G|-------------------------------||--
 D|-------------------------------||--x2 then from start bridge once then straight into verse
     |     |     |     |     |
 
+[outro]
+D|---------------------------------------------------------------------------|
+A|-3-----3-----3-----3-----1-----1-----1-----1-----0-----0-----0-----0-------|
+G|---0-----0-----0-----0-----0-----0-----0-----0-----0-----0-----0-----0-----|
+D|-----1-----1-----1-----1-----0-----0-----0-----0-----0-----0-----0-----0---|
+G|-------------------------------------------------------------------------0-|
+D|---------------------------------------------------------------------------|
+
 [lyrics]
 [verse]
 over the ocean she glides
@@ -105,7 +113,7 @@ waves crash over her, as the night wears on
 on, through it all, through it all, through it all
 lurching violently as she heaves the oars
 giving up on smooth sailing
-red eyes stinging her, as she snakes her t'ward land
+red eyes stinging her, as she snakes her way back home
 
 [verse]
 under the moonlight she rides
@@ -122,7 +130,7 @@ red eyes stinging her, as she snakes her way back home
 
 [verse]
 up through the rain clouds she flies
-the sun setting far in the distance
+the sun lying low in the distance
 her palm shields her gaze from the light
 the rider glidin' through the cool air (giant wings cut through the cool air)
 
