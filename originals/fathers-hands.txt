@@ -1,40 +1,129 @@
+Open G
+
+[Chords]
+DGDGBD
+x22010 - A
+x20010 - A2
+x44030 - Bm
+x40030 - Bm2
+x00000 - G
+x5005x - C
+x7007x - Dadd11
+
+x9008x - Gm7
+
+
+
 [Verse]
+A
 Growing into my father's hands
+Bm
 the veins and scars of an older man
-stretching out these father's hands
+A
+peering at these outstretched hands
+G
 old knuckles trap a wedding band
 [trapped in a wedding band]
 
+[Verse interlude]
+A Bm A G
+
 [Verse]
-I think I'd rather stand
-Cradling the tea-can
-while the egg timer drop pink sand
+A
+As the morning's tea leaves brewing
+Bm
+the egg timer drop pink sand
+A
 down into my father's hands
+G
+I gaze upon the way they're moving
 
 [Chorus]
+C              Dadd11
+Sitting still
+    C
+but still
+             Bm2 A2 G
+turning into my old man
+
+[Verse]
+A
+The father's hands
+Bm
+grip the pages of The Age
+A
+between fingers of these ink stained hands
+G
+a pencil fit to mark the page
+
+[Verse]
+A
+The smell of newspaper may
+Bm
+drift into the kitchen
+A
+and half finished crosswords lay
+G
+cryptic as the words are written
+
+[Chorus]
+C              Dadd11
+Sitting still
+    C
+but still
+             Bm2 A2 G
+turning into my old man
+
+[Bridge]
+Gm7    Dadd11 C
+Have I seen enough?
+Gm7      Dadd11   C               Bm2
+Will his hands be holdin' me much longer?
+Gm7        Dadd12    C
+Keep these old mitts close at hand
+             Bm2 A2 G
+The hands of my old man
+
+[Lyrics]
+Growing into my father's hands
+the veins and scars of an older man
+peering at these outstretched hands
+old knuckles trap a wedding band
+
+As the morning's tea leaves brewing
+the egg timer drop pink sand
+down into my father's hands
+I gaze upon the way they're moving
+
 Sitting still
 but still
 turning into my old man
 
-[Verse]
-The ink stained father's hands
+The father's hands
 grip the pages of The Age
-between fingers of the father's hands
+between fingers of these ink stained hands
 a pencil fit to mark the page
 
-[Verse]
 The smell of newspaper may
 drift into the kitchen
 and half finished crosswords lay
-as water leaves the cistern
-[more dreamy poetic blahblah here]
+cryptic as the words are written
 
+Sitting still
+but still
+turning into my old man
+
+Have I seen enough?
+Will his hands be holdin' me much longer?
+Keep these old mitts close at hand
+The hands of my old man
 
 
 
 
 
 Scratch notes:
+a line making it clear that I'm getting weirded out by seeing my dad's hands in my own
 tea pot / cosy, dressing gown, oven timer
 
 
