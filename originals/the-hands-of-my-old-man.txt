@@ -9,69 +9,27 @@ x40030 - Bm2
 x00000 - G
 x5005x - C
 x7007x - Dadd11
-
 x9008x - Gm7
 
-
-
 [Verse]
 A
-Growing into my father's hands
+<line 1>
 Bm
-the veins and scars of an older man
+<line 2>
 A
-peering at these outstretched hands
-G
-old knuckles trap a wedding band
-[trapped in a wedding band]
+<line 3>
+Bm
+<line 4>
 
 [Verse interlude]
-A Bm A G
-
-[Verse]
-A
-As the morning's tea leaves brewing
-Bm
-the egg timer drop pink sand
-A
-down into my father's hands
-G
-I gaze upon the way they're moving
+Dadd11 Gm7 Dadd11 G
 
 [Chorus]
 C              Dadd11
 Sitting still
     C
 but still
-             Bm2 A2 G
-turning into my old man
-
-[Verse]
-A
-Oh the hands of my old man
-Bm
-grip the pages of The Age
-A
-between fingers of these ink stained hands
-G
-a pencil fit to mark the page
-
-[Verse]
-A
-The smell of newspaper may
-Bm
-drift into the kitchen
-A
-and half finished crosswords lay
-G
-cryptic as the words are written
-
-[Chorus]
-C              Dadd11
-Sitting still
-    C
-but still
-             Bm2 A2 G
+             Bm2 A2 G  <- or get rid of Bm2 and A2 and just use regular B and A?
 turning into my old man
 
 [Bridge]
@@ -85,45 +43,53 @@ Keep these old mitts close at hand
 The hands of my old man
 
 [Lyrics]
-Growing into my father's hands
-the veins and scars of an older man
-peering at these outstretched hands
-old knuckles trap a wedding band
+[Verse]
+Sitting still the other day
+Doing one thing or another [Playing one song or another]
+Watching my hands as I play [discover?]
+Freakishly they're like my father's
 
+[Chorus]
+Sitting still
+but still
+turning into my old man
+
+[Verse]
 As the morning's tea leaves brewing
 the egg timer drop pink sand
 down into my father's hands
 I gaze upon the way they're moving
 
+[Verse]
+Growing into my father's hands
+the veins and scars of an older man
+peering at these outstretched hands
+old knuckles trap a wedding band [or trapped in a wedding band]
+
+[Chorus]
 Sitting still
 but still
 turning into my old man
 
-Oh the hands of my old man
-grip the pages of The Age
-between fingers of those ink stained hands
-a pencil fit to mark the page
-
-The smell of newspaper may
-drift into the kitchen
-and half finished crosswords lay
-cryptically the words are written
-
-Sitting still
-but still
-turning into my old man
-
+[Bridge]
 Have I seen enough?
 Will his hands be holdin' me much longer?
 Keep these old mitts close at hand
 The hands of my old man
 
+[Verse]
+When the hands of my old man
+gripped the pages of The Age
+between fingers of those ink stained hands
+a pencil fit to mark the page
 
+[Verse]
+The smell of newspaper may
+drift into the kitchen
+and half finished crosswords lay
+cryptically the words were written
 
-
-
-Scratch notes:
-a line making it clear that I'm getting weirded out by seeing my dad's hands in my own
-tea pot / cosy, dressing gown, oven timer
-
-
+[Chorus]
+Sitting still
+but still
+turning into my old man
