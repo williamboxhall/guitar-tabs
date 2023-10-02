@@ -18,7 +18,7 @@ Bm
 <line 2>
 A
 <line 3>
-Bm
+G
 <line 4>
 
 [Verse interlude]
@@ -32,7 +32,7 @@ but still
              Bm2 A2 G  <- or get rid of Bm2 and A2 and just use regular B and A?
 turning into my old man
 
-[Bridge]
+[Bridge / Outro]
 Gm7    Dadd11 C
 Have I seen enough?
 Gm7      Dadd11   C               Bm2
@@ -71,11 +71,7 @@ Sitting still
 but still
 turning into my old man
 
-[Bridge]
-Have I seen enough?
-Will his hands be holdin' me much longer?
-Keep these old mitts close at hand
-The hands of my old man
+[Bridge instrumental]
 
 [Verse]
 When the hands of my old man
@@ -93,3 +89,10 @@ cryptically the words were written
 Sitting still
 but still
 turning into my old man
+
+[Outro]
+Have I seen enough?
+Will his hands be holdin' me much longer?
+Keep these old mitts close at hand
+The hands of my old man
+
