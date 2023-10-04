@@ -11,6 +11,9 @@ x5005x - C
 x7007x - Dadd11
 x9008x - Gm7
 
+[Intro]
+A A
+
 [Verse]
 A
 <line 1>
