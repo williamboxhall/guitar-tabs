@@ -2,12 +2,12 @@ see video recording
 
 Open D (DADF#AD) capo 2 in iambic pentameter
 
-[chords]
+[Chords]
 000000 - D
 111111 - D#
 555555 - G
 
-[picking pattern]
+[Picking pattern]
 D |------------x-----
 A |--------x--------- <- be loose about which shrill strings are played here
 F#|----x-----------x-
@@ -15,7 +15,13 @@ D |--x---x---x---x---
 A |---x---x---x---x--
 D |-x---x---x---x----
 
-[instrumental]
+[Verse]
+D D D# D
+
+[Chorus]
+G G G D#
+
+[Instrumental]
 D |---------------------------------------------------------|
 A |---------------------------------------------------------|
 F#|---------------------0-3-1---0---------------0-3-1---0-3-|
@@ -53,38 +59,28 @@ D |-1---1---1---1---0---0---0---0---|
 
 [Lyrics]
 [Verse]
-D
 The hatchlings waiting in their nest
-D
 waiting for their mother's crest
-    D#                                 D
 her beak to bring the [humble] worm to rest
 
-D
-beating hearts and beating wings
-D
+[Verse]
+Beating hearts and beating wings
 the babies make it through the spring
-   D#                                     D
 to spread their wings and glide along the wind
 
 [Chorus]
-      G
 their mother was a little one
 sharply witted, barbed of tongue
 glassy eyed
-    D#
 her happy cry brought joy to everyone
 
 [Verse]
-D
-the summer is a nasty one
-D
+The summer is a nasty one
 autumn mushrooms on the wood
-    D#
 the winter sunset brings the term to close
 
-...
 
 
-Scratch notes:
+
+[Scratch notes]
 the lucky ones
