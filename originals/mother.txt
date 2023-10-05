@@ -8,12 +8,12 @@ Open D (DADF#AD) capo 2 in iambic pentameter
 555555 - G
 
 [picking pattern]
-D |---------x
-A |----x-----
-F#|--x---x---
-D |---x---x--
-A |-----x----
-D |-x--------
+D |------------x-----
+A |--------x--------- <- be loose about which shrill strings are played here
+F#|----x-----------x-
+D |--x---x---x---x---
+A |---x---x---x---x--
+D |-x---x---x---x----
 
 [instrumental]
 D |---------------------------------------------------------|
@@ -83,6 +83,8 @@ autumn mushrooms on the wood
     D#
 the winter sunset brings the term to close
 
+...
 
 
-
+Scratch notes:
+the lucky ones
