@@ -40,8 +40,9 @@ D |0---0---0--|0---0---0---0--|0---0---0---0---|1---1---1---1--|0---0---0---0--|
 [Chords]
 x22100
 x44340
-x32130
+x32030
 x20020
+x10010
 09789x
 
 [Lyrics]
@@ -77,6 +78,9 @@ she told them stories, ballads, yarns
 starry eyed
 her happy cry brought joy to everyone
 
+[Outro]
+
+
 
 
 [Scratch notes]
@@ -85,6 +89,7 @@ forest floor
 earthworms
 shed their feathers down
 last verses around birth and migration
+her once gold silver crest gleams with the moon
 
 D |----------------------------------------------------------|
 A |0---------------------------------------------------------|
