@@ -7,14 +7,21 @@ Open D (DADF#AD) capo 2 in iambic pentameter
 111111 - D#
 555555 - G
 
-[Picking pattern]
+[Chorus Singing Picking pattern]
+D |--------------------------
+A |--------------------------
+F#|--------------------------
+D |--------------------------
+A |---x---x---x---x---x---x--
+D |-x---x---x---x---x---x----
+
+[Instrumental / Chorus Picking pattern]
 D |--------------------x-----
 A |--------x-------x--------- <- be loose about which shrill strings are played here
 F#|----x-------x-----------x-
 D |--x---x---x---x---x---x---
 A |---x---x---x---x---x---x--
 D |-x---x---x---x---x---x----
-
 
 [Verse]
 D D D# D
@@ -62,6 +69,9 @@ Their mother was a little one
 sharply witted, barbed of tongue
 glassy eyed
 her happy cry brought joy to everyone
+her happy cry brought joy to everyone
+
+[Bridge is Instrumental version of chorus (and verse)]
 
 [Verse]
 The summer bakes the blooming brood
@@ -78,6 +88,7 @@ Their mother was a little one
 she told them stories, ballads, yarns
 starry eyed
 her happy cry brought joy to everyone
+her happy cry brought joy to everyone
 
 <birth and  migration verses>
 
@@ -86,8 +97,8 @@ Their mother was a little one
 her golden crest turned silver plume
 bleary eyed
 her happy cry brought joy to everyone
+her happy cry brought joy to everyone
 
-[Outro]
 
 [Scratch notes]
 the lucky ones
@@ -98,10 +109,12 @@ shed their feathers down
 last verses around birth and migration
 her once gold silver crest gleams with the moon
 
+consider playing the melody on guitar while singing the chorus at some point
+consider always doubling the last line of the chorus
 
 D |----------------------------------------------------------|
-A |0---------------------------------------------------------|
-F#|--5-8-7---5-8-7-----------5-8-7---5-8-7-----------5-8-7---|
+A |0---5-------5---------------5-------5---------------5-----|
+F#|--5---7---5---7-----------5---7---5---7-----------5---7---|
 D |--------7---------------7-------7---------------7-------7-|
 A |0---5---5---5---5---5---5---5---5---5---5---5---5---5---5-|
 D |--5---5---5---5---5---5---5---5---5---5---5---5---5---5---|
