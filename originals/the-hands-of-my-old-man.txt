@@ -3,47 +3,77 @@ Open G - Capo 3
 [Chords]
 DGDGBD
 x22010 - A
-x20010 - A2
 x44030 - Bm
-x40030 - Bm2
 x00000 - G
 x5005x - C
 x7007x - Dadd11
 x9008x - Gm7
 
+[Picking pattern]
+D|-------x
+B|---x----
+G|-x---x--
+D|--x---x-
+G|x---x---
+D|--------
+
 [Intro]
 A A
 
 [Verse]
-A
-<line 1>
-Bm
-<line 2>
-A
-<line 3>
-G
-<line 4>
+A Bm A G
 
-[Verse interlude]
-Dadd11 Gm7 Dadd11 G
+[Instrumental Turnaround]
+A Bm A G
 
 [Chorus]
-C              Dadd11
-Sitting still
-    C
-but still
-             Bm2 A2 G  <- or get rid of Bm2 and A2 and just use regular B and A?
-turning into my old man
+C Dadd11 C
+C Bm A G
 
-[Bridge / Outro]
-Gm7    Dadd11 C
-Have I seen enough?
-Gm7      Dadd11   C               Bm2
-Will his hands be holdin' me much longer?
-Gm7        Dadd12    C
-Keep these old mitts close at hand
-             Bm2 A2 G
-The hands of my old man
+[Instrumental Post-chorus]
+G G
+
+[Verse]
+A Bm A G
+
+[Instrumental Turnaround]
+A Bm A G
+
+[Verse]
+A Bm A G
+
+[Chorus]
+C Dadd11 C
+C Bm A G
+
+[Bridge Instrumental]
+Gm7 Dadd11 C
+Gm7 Dadd11 C
+
+[Bridge]
+Gm7 Dadd11 C
+Gm7 Dadd11 C Bm
+Gm7 Dadd11 C
+Gm7 Dadd11 C
+
+[Instrumental Turnaround]
+A Bm A G
+
+[Verse]
+A Bm A G
+
+[Instrumental Turnaround]
+A Bm A G
+
+[Verse]
+A Bm A G
+
+[Chorus]
+C Dadd11 C
+C Bm A G
+
+[Outro]
+G G
 
 [Lyrics]
 Sitting still the other day
