@@ -1,11 +1,14 @@
 see video recording
 
-Open D (DADF#AD) capo 2 in iambic pentameter
+Open E (DADF#AD capo 2) Key: E major modulating briefly to C major
 
 [Chords]
-000000 - D
-111111 - D#
-555555 - G
+000000 - E
+00210x - Esus(add9)
+111111 - F
+11331x - Fsus2(add#12)
+555555 - A
+55775x - Asus2(add#11)
 
 [Chorus Singing Picking pattern]
 D |--------------------------
@@ -133,3 +136,6 @@ F#|----0---0---0---0-----0-3-1---0-----0---0-----0-3-1---0-3|
 D |--0---0---0---0---0-2-------2---0-0---0---0-2-------2----|
 A |---0---0---0---0---0---0---0---0---0---0---0---0---0---0-|
 D |-0---0---0---0---0---0---0---0---0---0---0---0---0---0---|
+
+         (key of E    )(key of C)
+Could be E, F#m, E, F#m, F, Dm, then back to E
