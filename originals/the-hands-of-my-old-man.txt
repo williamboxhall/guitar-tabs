@@ -2,7 +2,7 @@ Open G - Capo 3
 
 [Chords]
 DGDGBD
-x22010 - A
+x22010 - Am
 x44030 - Bm
 x00000 - G
 x5005x - C
@@ -18,33 +18,33 @@ G|x---x---
 D|--------
 
 [Intro]
-A A
+Am Am
 
 [Verse]
-A Bm A G
+Am Bm Am G
 
 [Instrumental Turnaround]
-A Bm A G
+Am Bm Am G
 
 [Chorus]
 C Dadd11 C
-C Bm A G
+C Bm Am G
 
 [Instrumental Post-chorus]
 G G
 
 [Verse]
-A Bm A G
+Am Bm Am G
 
 [Instrumental Turnaround]
-A Bm A G
+Am Bm Am G
 
 [Verse]
-A Bm A G
+Am Bm Am G
 
 [Chorus]
 C Dadd11 C
-C Bm A G
+C Bm Am G
 
 [Bridge Instrumental]
 Gm7 Dadd11 C
@@ -57,20 +57,20 @@ Gm7 Dadd11 C
 Gm7 Dadd11 C
 
 [Instrumental Turnaround]
-A Bm A G
+Am Bm Am G
 
 [Verse]
-A Bm A G
+Am Bm Am G
 
 [Instrumental Turnaround]
-A Bm A G
+Am Bm Am G
 
 [Verse]
-A Bm A G
+Am Bm Am G
 
 [Chorus]
 C Dadd11 C
-C Bm A G
+C Bm Am G
 
 [Outro]
 G G

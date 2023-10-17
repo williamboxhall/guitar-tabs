@@ -3,20 +3,20 @@ see video recording
 Open E (DADF#AD capo 2) Key: E major modulating briefly to C major
 
 [Chords]
-000000 - E
-00210x - Esus(add9)
-111111 - F
-11331x - Fsus2(add#12)
-555555 - A
-55775x - Asus2(add#11)
+000000 - E - open
+222100 - F#m - usually only lower 3 notes sounded, mini barre w/ index
+111111 - F - barre
+x3113x - Dm
+5x5555 - A - played with thumb and pointer
+x07775 - B - played with ring finger
 
 [Chorus Singing Picking pattern]
-D |--------------------------
-A |--------------------------
-F#|--------------------------
-D |--------------------------
-A |---x---x---x---x---x---x--
-D |-x---x---x---x---x---x----
+D |---------|
+A |---------|
+F#|----x---x|
+D |--x---x--|
+A |---x---x-|
+D |-x---x---|
 
 [Instrumental / Chorus Picking pattern]
 D |--------------------x-----
@@ -27,10 +27,15 @@ A |---x---x---x---x---x---x--
 D |-x---x---x---x---x---x----
 
 [Verse]
-D D D# D
+E E F#m E E
+E E F#m E
+F F Dm Dm E E E E
 
 [Chorus]
-G G G D#
+A B A B B
+A B A B B
+A B
+F F Dm Dm E E E E
 
 [Instrumental]
    E
@@ -76,7 +81,7 @@ glassy eyed
 her happy cry brought joy to everyone
 her happy cry brought joy to everyone
 
-[Bridge is Instrumental version of chorus (and verse)]
+[Bridge is Instrumental version of chorus (and verse?)]
 
 [Verse]
 The summer bakes the blooming brood
@@ -96,6 +101,19 @@ her happy cry brought joy to everyone
 her happy cry brought joy to everyone
 
 <birth and  migration verses>
+===WIP===
+[Verse]
+They truly were the lucky ones
+Singing from unfurling fronds
+Their courting piroettes for special friends
+
+The hour is late upon the clock
+The growing family forms a flock
+Their silent silouettes ascend
+Soaring over forest's end
+Tailwind at their backs will send them
+Sailing through the clouds
+===WIP===
 
 [Chorus]
 Their mother was a little one
@@ -113,6 +131,8 @@ earthworms
 shed their feathers down
 last verses around birth and migration
 her once gold silver crest gleams with the moon
+courting on the forest floor
+woodland
 
 consider playing the melody on guitar while singing the chorus at some point
 consider always doubling the last line of the chorus
