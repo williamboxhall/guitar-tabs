@@ -100,8 +100,6 @@ starry eyed
 her happy cry brought joy to everyone
 her happy cry brought joy to everyone
 
-<birth and  migration verses>
-===WIP===
 [Verse]
 They truly were the lucky ones
 Singing from unfurling fronds
@@ -109,11 +107,7 @@ Their courting piroettes for special friends
 
 The hour is late upon the clock
 The growing family forms a flock
-Their silent silouettes ascend
-Soaring over forest's end
-Tailwind at their backs will send them
-Sailing through the clouds
-===WIP===
+Their silent silouettes skyward ascend
 
 [Chorus]
 Their mother was a little one
@@ -133,6 +127,7 @@ last verses around birth and migration
 her once gold silver crest gleams with the moon
 courting on the forest floor
 woodland
+sapling
 
 consider playing the melody on guitar while singing the chorus at some point
 consider always doubling the last line of the chorus
