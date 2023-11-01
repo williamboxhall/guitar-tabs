@@ -1,5 +1,10 @@
+ref: https://www.youtube.com/watch?v=M_I8IGwqva4&ab_channel=SufjanStevens
+tabbed by me
+"Will Anybody Ever Love Me?"
 
-[verse picking pattern]
+capo 3
+
+[picking pattern verse / pre-chorus picking pattern (only strings 2,3,4)]
 d|------------|------------|------------|------------|
 B|-----------x|-----------x|-----------x|-----------x|
 G|-----x------|-----x------|-----x------|-----x------|
@@ -7,15 +12,23 @@ D|--x-----x---|--x-----x---|--x-----x---|0hx-----0---|
 A|------------|------------|------------|------------|
 E|------------|------------|------------|------------|
 
-[chorus]                  v- bring in 1st string at different points
+[picking pattern chorus 5 strings]
 d|------------|-----------x|------------|------------|
 B|-----------x|------------|-----x------|-----x------|
 G|-----x------|-----x------|-----------x|-----------x|
-D|--x-----x---|--x-----x---|--x-----x---|--x-----x---|
-A|------------|------------|------------|------------|
+D|--------x---|--------x---|--------x---|--------x---|
+A|------------|--x---------|------------|--x---------|
+E|--x---------|------------|--x---------|------------|
+
+[picking pattern chorus 4 strings - 1st string matches melody]
+d|------------|------------|-----------x|------------|
+B|-----------x|-----------x|------------|-----x------|
+G|-----x------|-----x------|-----x------|-----------x|
+D|--------x---|--------x---|--------x---|--------x---|
+A|--x---------|--x---------|--x---------|--x---------|
 E|------------|------------|------------|------------|
 
-[bridge]
+[picking chorus banjo variant]
 d|--x---------||
 B|-----------x||
 G|--------x---||
@@ -23,29 +36,36 @@ D|-----x------||
 A|------------||
 E|------------||
 
-d|---------------||----------||-------------------------|
-B|-1---1---5---3-||-8-7-10-5-||-3-1------------------------|
-G|-2---0---0---0-||-0-0-0--0-||-0-0---------------------------|
-D|-0-0h2-0h5-0h4-||-0-7-10-5-||-4-2------------------------------|
-A|---------------||----------||--------------------|
-E|---------------||----------||--------------------|
+[chords]
+E  A  D  G  B  d
+x  x  0  2  1  0   D7
+x  0  2  0  1  x   Am7
+x  3  5  0  5  x   C
+x  2  4  0  3  0   Bmb6
+x  x  0  0  8  x   G/D
+x  5  7  0  7  0   Dadd11
+x  0  10 0  10 0   Am7No5
+3  2  0  0  0  0   G
 
-d|-0-0-0--0-0-0---------------------
-B|-0-7-10-5-3-1---------------------
-G|-0-0-0--0-0-0---------------------
-D|-0-7-10-5-4-2---------------------
-A|----------------------------
-E|---------------------------
+[Intro / Verse]
+D7 Am7 C Bmb6
 
+[Pre-Chorus]
+G/D Dadd11 Am7No5 C
+G/D Dadd11 Am7No5 C Bmb6 Am7 <- include bass notes in Bmb6 and Am7
 
-"Will Anybody Ever Love Me?"
+[Chorus w/ bass notes]
+G   Dadd11 Am7No5 C Bmb6 Am7
 
+[Lyrics]
+[Verse 1]
 Chase away my heart and heartache
 Run me over, throw me over, cast me out
 Find a river running to the west wind
 Just above the shoreline
 You will see a cloud
 
+[Pre-chorus]
 Tie me to a tiny wooden raft
 Burn my body, point me to the undertow
 Push me off into the void at last
@@ -53,6 +73,7 @@ Watch me drift and
 Watch me struggle, let me go
 Cause I really wanna know
 
+[Chorus]
 Will anybody ever love me? (Love me)
 For good reasons
 Without grievance, not for sport
@@ -61,12 +82,14 @@ In every season
 Pledge allegiance to my heart
 Pledge allegiance to my burning heart
 
+[Verse 2]
 Hello wildness please forgive me now
 For the heartache and the misery I create
 Take my suffering as I take my vow
 Wash me now, anoint me
 With that golden blade
 
+[Pre-chorus]
 Tie me to the final wooden stake
 Burn my body, celebrate the afterglow
 Wash away the summer sins I made
@@ -74,6 +97,7 @@ Watch me drift and
 Watch me struggle, let me go
 Cause I really wanna know
 
+[Chorus]
 Will anybody ever love me? (Love me)
 For good reasons
 Without grievance, not for sport (Not for sport)
@@ -83,6 +107,7 @@ Pledge allegiance to my heart (To my heart)
 In every season
 Pledge allegiance to my heart (To my heart)
 
+[Outro]
 My burning heart
 My burning heart
 My burning heart
