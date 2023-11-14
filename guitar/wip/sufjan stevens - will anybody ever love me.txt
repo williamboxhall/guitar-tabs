@@ -2,7 +2,7 @@ ref: https://www.youtube.com/watch?v=M_I8IGwqva4&ab_channel=SufjanStevens
 tabbed by me
 "Will Anybody Ever Love Me?"
 
-capo 3
+EADGBd capo 3, 80bpm
 
 [picking pattern verse / pre-chorus picking pattern (only strings 2,3,4)]
 d|------------|------------|------------|------------|
@@ -36,26 +36,49 @@ D|--x-----x---||
 A|------------||
 E|------------||
 
-[chords]
+[chords (different voicings per section)]
 E  A  D  G  B  d
-x  x  0  2  1  0   D7
-x  0  2  0  1  x   Am7
+[Intro / Verse]
+x  x  0  2  1  x   D7
+x  x  2  0  1  x   Am7
+x  x  5  0  5  x   C
+x  x  4  0  3  x   G7/B
+[Pre-chorus]
+3  x  0  4  x  5   G
+x  5  7  0  7  x   Dadd11
+x  0  10 0  10 x   Am7(no5)
 x  3  5  0  5  x   C
-x  2  4  0  3  0   G7/B
-x  5  0  0  x  5   D
+x  2  4  0  3  x   G7/B
+x  0  2  0  1  x   Am7
+[Chorus]
+3  2  0  0  0  0   G
 x  5  7  0  7  0   Dadd11
 x  0  10 0  10 0   Am7(no5)
-3  2  0  0  0  0   G
+x  3  5  0  5  0   C
+x  2  4  0  3  0   G7/B
+x  0  2  0  1  0   Am7
+[Banjo Bridge / Chorus]
+x  x  0  2  1  0   D7
+x  x  2  0  1  0   Am7
+x  x  5  0  5  0   C
+x  x  4  0  3  0   G7/B
+[Outro]
+x  3  5  0  5  x   C
+x  2  4  0  3  x   G7/B
+x  0  2  0  1  x   Am7
+0  2  2  0  0  x   Em
+x  x  0  2  3  4   D
+3  2  0  0  0  5   G
 
 [Intro / Verse]
 D7 Am7 C G7/B
 
 [Pre-Chorus]
-G/D Dadd11 Am7(no5) C
-G/D Dadd11 Am7(no5) C G7/B Am7 <- include bass notes in Bmb6 and Am7
+G Dadd11 Am7(no5) C
+G Dadd11 Am7(no5) C G7/B Am7
 
-[Chorus w/ bass notes]
-G   Dadd11 Am7(no5) C G7/B Am7
+[Chorus]
+G Dadd11 Am7(no5) C G7/B Am7
 
 [Outro (single strums)]
 C  G7/B  C  G7/B  Am7  Em   D
