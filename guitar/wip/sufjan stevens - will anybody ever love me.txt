@@ -42,33 +42,43 @@ E  A  D  G  B  d
 x  x  0  2  1  x   D7
 x  x  2  0  1  x   Am7
 x  x  5  0  5  x   C
-x  x  4  0  3  x   G7/B
+x  x  4  0  3  x   Gmaj7
 [Pre-chorus]
-3  x  0  4  x  5   G
-x  5  7  0  7  x   Dadd11
-x  0  10 0  10 x   Am7(no5)
-x  3  5  0  5  x   C
-x  2  4  0  3  x   G7/B
-x  0  2  0  1  x   Am7
+3  x  0  4  x  5   G          A#
+x  5  7  0  7  x   Dadd11     F
+x  0  10 0  10 x   Am7(no5)   Cm
+x  3  5  0  5  x   C          D#
+x  2  4  0  3  x   Gmaj7/B    A#
+x  0  2  0  1  x   Am7        Cm
 [Chorus]
-3  2  0  0  0  0   G
-x  5  7  0  7  0   Dadd11
-x  0  10 0  10 0   Am7(no5)
-x  3  5  0  5  0   C
-x  2  4  0  3  0   G7/B
-x  0  2  0  1  0   Am7
+3  2  0  0  0  0   G          A#
+x  5  7  0  7  0   Dadd11     F
+x  0  10 0  10 0   Am7(no5)   Cm
+x  3  5  0  5  0   C          D#
+x  2  4  0  3  0   Gmaj7/B    A#
+x  0  2  0  1  0   Am7        Cm
 [Banjo Bridge / Chorus]
 x  x  0  2  1  0   D7
 x  x  2  0  1  0   Am7
 x  x  5  0  5  0   C
-x  x  4  0  3  0   G7/B
+x  x  4  0  3  0   Gmaj7/B
 [Outro]
 x  3  5  0  5  x   C
 x  2  4  0  3  x   G7/B
 x  0  2  0  1  x   Am7
 0  2  2  0  0  x   Em
 x  x  0  2  3  4   D
-3  2  0  0  0  5   G
+3  2  0  0  0  5   Gmaj7
+
+Remy Intro: (dont play)
+Remy Chorus: | Bb | F  | Cm | Eb        |
+     x2      | Bb | F  | Cm | (Eb | Bb) |
+             | Cm | Cm |
+Remy Bridge: | F  | Cm | Eb | Bb        |x4
+Remy Chorus: <as above> x2
+Remy Outro:  | Eb | Bb | Eb | Bb        |
+     x2      | Cm | Gm | F  |
+
 
 [Intro / Verse]
 D7 Am7 C G7/B
