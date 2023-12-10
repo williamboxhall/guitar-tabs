@@ -3,19 +3,19 @@ inspired by: https://tabs.ultimate-guitar.com/tab/panic-at-the-disco/impossible-
 ref: https://www.youtube.com/watch?v=d20ntGnYnm4&ab_channel=jackson
 
 capo 1
-[picking pattern 4 strings]
-1|-x---x--|x---x--|
-2|-x---x--|x---x--|
-3|---x---x|--x---x|
-4|-x------|-------|
+[picking pattern - 4 strings]
+1|-x---x--|x---x--||
+2|-x---x--|x---x--||
+3|---x---x|--x---x||
+4|-x------|-------||
 
-[picking pattern A/C#]
-e|-0---0--|
-B|--------|
-G|---2---2|
-D|--------|
-A|-4------|
-E|--------|
+[picking pattern - Verse 3 D shapes]
+e|-2---2--|2---2--|2---2--|2---2--|
+B|-3---3--|3---3--|3---3--|1---1--|
+G|-2---2--|3---3--|4---4--|2---2--|
+D|---0---0|--0---0|--0---0|--0---0|
+A|--------|-------|-------|-------|
+E|--------|-------|-------|-------|
 
 [Chords]
 
@@ -33,12 +33,12 @@ xx0232  D
 
 [Verse 2]
 EADGBe
-x0222x  A
-x0322x  A5
-x0422x  A6 -> A5 A A5 A6
-x0202x  A7
+x0x220  A
+x0x221  A5
+x0x222  A6 -> A5 A A5 A6
+x0x223  A7
 xx0232  D
-x4x2x0  A/C#
+x4x200  A/C#
 2x222x  F#m7
 x2120x  B7 -> A A5 A6
 3x003x  G(no3)
@@ -50,7 +50,7 @@ xx03x2  D6 - D5 D D5 D6
 xx0212  D7
 3x000x  G
 2x023x  D/F#
-x2x23x  Bm7
+x2023x  Bm7
 0xx130  E7 -> D D5 D6
 x3201x  C
 
