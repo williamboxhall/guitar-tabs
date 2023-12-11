@@ -22,36 +22,36 @@ E|--------|-------|-------|-------|
 [Verse 1]
 EADGBe
 0x210x  E
-0x211x  E5
-0x212x  E6 -> E5 E E5 E6
+0x211x  E+
+0x212x  E6
 0x213x  E7
 x0222x  A
 4x240x  E/G#
 x4242x  C#m7
-2x232x  F#7 -> E E5 E6
+2x232x  F#7
 xx0232  D
 
 [Verse 2]
 EADGBe
 x0x220  A
-x0x221  A5
-x0x222  A6 -> A5 A A5 A6
+x0x221  A+
+x0x222  A6
 x0x223  A7
 xx0232  D
 x4x200  A/C#
 2x222x  F#m7
-x2120x  B7 -> A A5 A6
+x2120x  B7
 3x003x  G(no3)
 
 [Verse 3]
 xx0232  D
-xx0332  D5
-xx0432  D6 - D5 D D5 D6
+xx0332  D+
+xx0432  D6
 xx0212  D7
 3x000x  G
 2x023x  D/F#
 x2023x  Bm7
-0xx130  E7 -> D D5 D6
+0xx130  E7
 x3201x  C
 
 [Bridge]
@@ -63,41 +63,88 @@ x4222x  A/C#
 x2222x  A/B
 x0222x  A
 
-<repeat verse 3>
+[Intro]
 
-[Lyrics]
+E E+ E6 E+
+E E+ E6 E+
+
+
+[Verse 1]
+           E       E+
 There's no sunshine
+          E6       E+
 This impossible year
+     E              E+
 Only black days and sky grey
+    E6             E7
 And clouds full of fear
+    A             E/G#
 And storms full of sorrow
+     C#m7         F#m7
 That won't disappear
+     E            E+
 Just typhoons and monsoons
+       E6       D
 This impossible year
 
+
+[Verse 2]
+           A          A+
 There's no good times
+       A6          A+
 This impossible year
+       A            A+
 Just a beachfront of bad blood
+      A6             A7
 And a coast that's unclear
+        D            A/C#
 All the guests at the party
+        F#m7    Bm7
 They're so insincere
+          A          A+
 They just intrude and exclude
+       A6       G
 This impossible year
 
+
+[Verse 3]
+           D          D+
 There's no you and me
+       D6            D+
 This impossible year
+     D            D+
 Only heartache and heartbreak
+    D6          D7
 And gin made of tears
+    G            D/F#
 The bitter pill I swallow
+    Bm7        E7
 The scars souvenir
+     D            D+
 That tattoo, your last bruise
+       D6       C
 This impossible year
 
-There's never air to breathe
-There's never in-betweens
-These nightmares always hang on past the dream
+[Bridge]
+               G
+ There's never air to breathe
+               Bm/F#
+ There's never in-betweens
+       Em                G/D               A/C#   A/B   A
+ These nightmares always hang on past the dream
 
-There's no sunshine
-There's no you and me
-There's no good times
-This impossible year
+D D+ D6 D+
+D D+ D6 D+
+G D/F# Bm7 E7
+D D+ D6 C
+
+
+[Outro]
+            D       D+
+ There's no sunshine
+            D6        D+
+ There's no you and me
+            D        D+
+ There's no good times
+        D6         D+
+ This impossible year
