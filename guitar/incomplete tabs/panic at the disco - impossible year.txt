@@ -44,9 +44,9 @@ x2120x  B7 -> A A5 A6
 3x003x  G(no3)
 
 [Verse 3]
-xx02x2  D
-xx03x2  D5
-xx03x2  D6 - D5 D D5 D6
+xx0232  D
+xx0332  D5
+xx0432  D6 - D5 D D5 D6
 xx0212  D7
 3x000x  G
 2x023x  D/F#
