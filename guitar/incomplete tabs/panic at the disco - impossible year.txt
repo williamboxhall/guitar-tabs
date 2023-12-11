@@ -17,7 +17,7 @@ D|---0---0|--0---0|--0---0|--0---0|
 A|--------|-------|-------|-------|
 E|--------|-------|-------|-------|
 
-[Chords]
+[Chord voicings]
 
 [Verse 1]
 EADGBe
@@ -63,11 +63,12 @@ x4222x  A/C#
 x2222x  A/B
 x0222x  A
 
+
+[Lyric Chord Chart]
+
 [Intro]
-
 E E+ E6 E+
 E E+ E6 E+
-
 
 [Verse 1]
            E       E+
@@ -125,6 +126,7 @@ That tattoo, your last bruise
        D6       C
 This impossible year
 
+
 [Bridge]
                G
  There's never air to breathe
@@ -133,6 +135,8 @@ This impossible year
        Em                G/D               A/C#   A/B   A
  These nightmares always hang on past the dream
 
+
+[Bridge instrumental (trumpet)]
 D D+ D6 D+
 D D+ D6 D+
 G D/F# Bm7 E7
@@ -148,3 +152,41 @@ D D+ D6 C
  There's no good times
         D6         D+
  This impossible year
+
+
+[Lyrics]
+There's no sunshine
+This impossible year
+Only black days and sky grey
+And clouds full of fear
+And storms full of sorrow
+That won't disappear
+Just typhoons and monsoons
+This impossible year
+
+There's no good times
+This impossible year
+Just a beachfront of bad blood
+And a coast that's unclear
+All the guests at the party
+They're so insincere
+They just intrude and exclude
+This impossible year
+
+There's no you and me
+This impossible year
+Only heartache and heartbreak
+And gin made of tears
+The bitter pill I swallow
+The scars souvenir
+That tattoo, your last bruise
+This impossible year
+
+There's never air to breathe
+There's never in-betweens
+These nightmares always hang on past the dream
+
+There's no sunshine
+There's no you and me
+There's no good times
+This impossible year
