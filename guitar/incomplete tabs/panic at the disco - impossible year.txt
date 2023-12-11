@@ -58,7 +58,10 @@ x3201x  C
 3x000x  G
 2x443x  Bm/F#
 0xx000  Em
-xx0003  G/D
+x5543x  G/D
+x4222x  A/C#
+x2222x  A/B
+x0222x  A
 
 <repeat verse 3>
 
