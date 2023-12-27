@@ -25,8 +25,8 @@ EADGBe
 0x211x  E+
 0x212x  E6
 0x213x  E7
-x0222x  A
-4x240x  E/G#
+x0222x  A (hold the barre for A, E/G#, C#m7 and F#7)
+4x240x  E/G# (slightly lift barre on B string to make the stretch)
 x4242x  C#m7
 2x232x  F#7
 xx0232  D
@@ -38,29 +38,29 @@ x0x221  A+
 x0x222  A6
 x0x223  A7
 xx0232  D
-x4x200  A/C#
+x4x200  A/C# (hold index on the A) (add2 cheat for playability)
 2x222x  F#m7
 x2120x  B7
-3x003x  G(no3)
+3x000x  G
 
 [Verse 3]
-xx0232  D
-xx0332  D+
+xx0232  D (standard D shape)
+xx0332  D+ (just moving pinky D+ and D6)
 xx0432  D6
 xx0212  D7
-3x000x  G
-2x023x  D/F#
-x2023x  Bm7
+3x000x  G (thumb G)
+2x023x  D/F# (thumb F#, ring finger stays for D/F#, Bm7, E and D)
+x2023x  Bm7 (extend thumb down to B)
 0xx130  E7
 x3201x  C
 
 [Bridge]
-3x000x  G
+3x000x  G (thumb the G)
 2x443x  Bm/F#
 0xx000  Em
 x5543x  G/D
-x4222x  A/C#
-x2222x  A/B
+x4222x  A/C# (index on C#, barre rest)
+x2222x  A/B  (middle on B)
 x0222x  A
 
 
