@@ -1,29 +1,31 @@
-Key of Bb
+Key of C
 
-[Placeholder lyrics]
-Bb
+[Verse]
+C
 The lollipop man
-Cm              Bb
+Dm              C
 standing in the street
-Bb              Cm
+C               Dm
 after morning's dental flossing
-Gm                F
+Am                G
 stands out by the Zebra Crossing
 
-B        Bb
+Db       C
 Over the street
-    B          Bb
+    Db          C
 the childrens' feet
-      B        Bb
+      Db       C
 skip along the stripes
-   B         F
+   Db        G/B
 He wipes his eyes
 
-[bridge]
-Bb Cm Dm(add6) Cm Dm(add6) Cm/Eb Cdim/Eb
-
-
-
+[bridge 1]
+     C/G    Dm/A
+Over fields green
+   Em/B  add6 Dm/A   Em/B  add6 Dm/F
+he makes his  way he wants to   be...
+             Ddim/F        C
+the lollipop man
 
 
 [Scratch notes]
@@ -32,3 +34,8 @@ leans on bricks near Zebra crossing
 
 by the bureau, orange fluro vest
 a silver locket hangs down to his chest
+
+
+
+[bridge 2]
+C Dm Em(add6) Dm Em(add6) Dm/F Ddim/F
