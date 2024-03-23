@@ -1,73 +1,121 @@
-A complete take of this song was recorded for Bob Dylan's second 1964 album
-''Another Side Of Bob Dylan'', but for reasons unknown, it was rejected.
+https://tabs.ultimate-guitar.com/tab/jeff-buckley/mama-you-been-on-my-mind-chords-3529691
 
-Anyway, the best way to play this song is:
-
-Capo on the 5th fret:
-
-
+CAPO 5th fret
+ 
+[Chords]
+ 
+   C   E7  Am  D7/F#  E  Fmaj7    C/G
+e|-0-|-0-|-0-|-2----|-0-|-0----0-|-0--|
+B|-1-|-0-|-1-|-1----|-0-|-1----1-|-1--|
+G|-0-|-1-|-2-|-2----|-1-|-2----2-|-0--|
+D|-2-|-0-|-2-|-0----|-2-|-2-or-3-|-2--|
+A|-3-|-2-|-0-|-0----|-2-|-0----0-|-3--|
+E|-0-|-0-|-0-|-1----|-0-|-1----1-|-3--|    
+ 
 [Intro]
-
-| C         | C          | F        F#dim7| C/G
-| C         | C          | F     F#dim7   | C/G G#dim7 Am |
-
-
-[Verse 1]
-C                                     E7
-Perhaps it's the color of the sun cut flat
+ 
+e|-----------------------------------1----(2)-----------------------------------------|
+B|-----------1---1------1---1--------1-----1---5--------------------------------------|
+G|-0---------0---0------0---0--------2-----2---5------5---5---7/9/7--7/9/7--5---------|
+D|-2(2)------2---2------2---2--------3-----1---5--5-7---7---7-----------------5/7-5---|
+A|-3-3-----0-3-0-3----0-3-0-3--0h3---3-----x---3------3---3---5/7/5--5/7/5--3---------|
+E|-------3----------3---------3----1-----2---3----3-5---5---5-----------------3/5-3---|
+ 
+e|---1---2----------0--------2------3----3--------|
+B|---1---1--5--3----1--------1------3----3--------|
+G|---2---2--5--4----2--------2------0----0---0----|
+D|---3---1--5--5----2----2-0-0------0----0h2-3----|
+A|---3---x--3--5--0-----------------2----2--------|
+E|-1---2----3--3------------------3---------------|
+ 
+[Verse]
+ 
+C                                      E7
+Perhaps it is the color of the sun cut flat
     Am            D7/F#
-An' cov'rin' the crossroads I'm standing at
-   C                  C/B Am  C/G        Fmaj7
+And coverin' the crossroads I'm standing at
+   C                    E     Am            Fmaj7
 Or maybe it's the weather or something like that
-    C/G            G6     C
-But mama you been on my mind.
-
-
-[Verse 2]
-C                                                      E7
-I don't mean trouble please don't put me down or get upset
-                 Am   D7/F#
-I am not pleadin' or sayin' "I can't forget."
-  C                C/B      Am          C/G         Fmaj7
-I do not walk the floor bowed down an' bent but yet
- C/G           G6    C
-Mama you been on my mind.
-
-
-[Verse 3]
-      C
-Even though my mind is hazy an' my thoughts they might be narrow
-            E7/B             Am     D7/F#
-Where you been don't bother me nor bring me down in sorrow.
-    C     C/B   Am               C/B      Fmaj7
-It don't even matter to me where you're wakin' up tomorrow
-F#dim7 C          G6         C
-But mama you're just on my mind.
-
-
-[Verse 4]
-         C                                       E7/B
-I am not askin' you to say words like "yes" or "no"
-            Am          D7/F#
-Please understand me I got no place for you t' go.
-          C            C/B Am                  Fmaj7
-I'm just breathin' to myself pretendin' not that I don't know
-C/G          G6       C
-Mama you been on my mind.
-
-
-[Instrumental]
-
-| C  E7  | Am   |  D7/F#         | C/G C/B Am |
-| F  F#dim7    |  C/G   G6   |   C G     | G7 N.C. |
-
-
-[Outro]
-         C
-When you wake up in the mornin' baby look inside your mirror.
-     E7                               Am    Am/G     D7/F#
-You know I won't be next to you you know I won't be near.
-          C                             Fmaj7
+C                       G     C/G
+oh but mama you've been on my mind
+ 
+  C                                                       E7
+I don't mean trouble please don't put me down don't get upset
+         Am         D7/F#
+I am not pleading or saying that I can't forget you
+C                 E     Am       G                 Fmaj7
+I do not pace the floor... bowed down and bent but yet
+C                   G       C/G
+Oh mama you've been on my mind
+ 
+     C
+Even though my eyes are hazy and my thoughts they might be narrow
+             E7                Am D7/F#
+Where you've been don't bother me or bring me down with sorrow
+C            E        Am        G             Fmaj7
+I don't even mind who you'll be waking with tomorrow
+C                    G        C/G
+But mama you've been on my mind
+ 
+C              C          C                 C
+I'm not askin' you to say words like yes or no
+E7                Am D7/F#
+Please understand me I have no place I'm callin' you to go
+C                             E      Am                    Fmaj7
+I'm just whispering to myself so I can pretend that I don't know
+C                    G       C/G
+Oh mama you've been on my mind
+ 
+[Bridge]
+ 
+C       E7
+Am      D7/F#
+C E Am  Fmaj7
+C   G   C/G
+ 
+[Verse]
+C
+When you wake up in the mornin' baby look inside your mirror
+E7                               Am                  D7/F#
+You know I won't be next to you you know I won't be near
+C                       E      Am              G       Fmaj7
 I'd just be curious to know if you can see yourself as clear
-F#dim7  C/G         G7               C  G  G7   C
+   C               G              C/G
+As someone who has had you on his mind
+ 
+[outro]
+ 
+e|----------0-|
+B|-------1--1-|
+G|-----0----0-|
+A|---2------2-|
+D|-3--------3-|
+E|------------|
+
+[Lyrics]
+Perhaps it is the color of the sun cut flat
+And coverin' the crossroads I'm standing at
+Or maybe it's the weather or something like that
+oh but mama you've been on my mind
+
+I don't mean trouble please don't put me down don't get upset
+I am not pleading or saying that I can't forget you
+I do not pace the floor... bowed down and bent but yet
+Oh mama you've been on my mind
+
+Even though my eyes are hazy and my thoughts they might be narrow
+Where you've been don't bother me or bring me down with sorrow
+I don't even mind who you'll be waking with tomorrow
+But mama you've been on my mind
+
+I am not askin' you to say words like yes or no
+Please understand me I have no place I'm callin' you to go
+I'm just whispering to myself so I can pretend that I don't know
+Oh mama you've been on my mind
+
+[Bridge]
+
+When you wake up in the mornin' baby look inside your mirror
+You know I won't be next to you you know I won't be near
+I'd just be curious to know if you can see yourself as clear
 As someone who has had you on his mind
