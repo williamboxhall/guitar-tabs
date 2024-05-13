@@ -9,12 +9,12 @@ based on the cd version of LIGHT GREEN LEAVES
 tabbed by HULKJAZZ
 Email: drmezzenga@gmail.com
 
-C#m7  X46454
+C#m7  x46454
 G#m7  464444
 F#m7  242222
-Amaj7 X02120
+Amaj7 x02120
 E     022100
-B7    -21202
+B7    x21202
 
 e --4--4--2--2--2h4p2--0------------0--|
 B --5--4--2------------2--2--0h2p0--0--|

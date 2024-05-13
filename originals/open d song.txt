@@ -1,0 +1,5 @@
+Tuning: Open D, capo at the 6th fret
+D A D F#A D
+x 2 4 1 0 0
+x 0 4 1 0 0
+2 2 0 1 0 0
