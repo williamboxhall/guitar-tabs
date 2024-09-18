@@ -3,6 +3,16 @@ DGDGAD capo4
 
 changing every two 4-beat bars (out of time with tripets)
 
+[intro]
+xxx200
+xxx400
+xxx200
+xxx000
+xxx200
+xxx400
+xxx200
+xxx000
+
 [Verse]
 xx5000
 xx4000
