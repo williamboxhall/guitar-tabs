@@ -1,4 +1,5 @@
-Ref: https://www.youtube.com/watch?v=Np96RMEh3Sg&ab_channel=BombayBicycleVEVO
+https://www.youtube.com/watch?v=Np96RMEh3Sg&ab_channel=BombayBicycleVEVO
+https://youtu.be/X6jiza1xhAk?si=X624W1rYY1OwSxQE
 Standard, capo4
 
 [intro / verse]
@@ -22,8 +23,8 @@ E|-0--0--3--0--
 [chorus]
 [picking pattern 6 strings]
 e|----x-----x---||
-B|---x--x--x--x-||
-G|--x--x--x--x--||
+B|---x--x-----x-||
+G|--x-----x--x--||
 D|----x-----x---||
 A|-x------------||
 E|-------x------||
@@ -36,12 +37,12 @@ D|----x-----x---||
 A|-------x------||
 E|-x------------||
 
-e|-2--0--0--0-----
-B|-3--3--0--0--0--
-G|-2--0--0--0--2--
-D|-0--2--2--2--0--
-A|-0--3--3--2--3--
-E|-2--3--3--0--1--
+e|-2--0--0--0--|---
+B|-3--3--0--0--|0--
+G|-2--0--0--0--|2--
+D|-0--2--2--2--|0--
+A|-0--3--3--2--|3--
+E|-2--3--3--0--|1--
 
 [outro]
 [picking pattern]
