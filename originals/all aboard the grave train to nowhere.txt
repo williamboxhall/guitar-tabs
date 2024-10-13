@@ -4,21 +4,21 @@ All aboard the gravy train to nowhere
 [Verse 1]
 D                  Am           Em       D
 We're gonna be swimming in that dopamine sky
-Am                Em             C            D
-  You're gonna be grinning with that look in your eye
+Am                Em                 G                  C            D
+  You're gonna be grinning with that look in your, that look in your eye
 D            Am               Em      D
 I'm gonna be laughing all the way to bank
-Am                Em             G				C            D
-It's really gonna be somethin', and it's gonna be, it's gonna be...
+Am                      Em             G				C            D
+   It's really gonna be somethin', and it's gonna be, it's gonna be...
 
 [chorus]
-F/d         C/d               G         D
+F/d         C/d               G/d         D
    and it's gonna be a long long time
-F	   G                F 		    G
-golden handcuffs, 'n' a bite of the crust
-F    C                G         D
-while another year turns to dust
-F    G         D     F        G         D
+F/d	   G/d              F/d 		    G/d
+golden handcuffs, in my mind
+F/d    C/d                 G/d        D
+see another year passing by
+F/d  G/d       D/d   F/d      G/d       D
 all aboard the gravy train
 
 [refrain]
@@ -27,6 +27,5 @@ and it's gonna be a long long time
 F/A            G/e				D
 all aboard the gravy train... to nowhere
 
-Interlude
-in BASS
+[Interlude]
 F C/E G D/F#
