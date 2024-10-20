@@ -1,17 +1,32 @@
 All aboard the gravy train to nowhere
+Standard, capo 0
+
+[Chords]
+[Verse 1 - triads w/ D-pedal]
+xx0232   D
+xx0555   Am/d
+xx0453   Em/d
+xx0553   C/d
+xx0433   G/d
+[Chorus]
+
 
 
 [Verse 1]
 D                  Am           Em       D
 We're gonna be swimming in that dopamine sky
-Am                Em                 G                  C            D
-  You're gonna be grinning with that look in your, that look in your eye
+Am                Em                  C                D
+  You're gonna be grinning with that look in your eye
 D            Am               Em      D
 I'm gonna be laughing all the way to bank
 Am                      Em             G				C            D
    It's really gonna be somethin', and it's gonna be, it's gonna be...
 
+
 [chorus]
+<melodic lead in to establish the new idea and not be so relentless>
+F/d         C/d               G/d         D
+
 F/d         C/d               G/d         D
    and it's gonna be a long long time
 F/d	   G/d              F/d 		    G/d
@@ -19,33 +34,31 @@ last call, to the line
 F/d    C/d                 G/d        D
 see another year pass on by
 F/d  G/d       D/d   F/d      G/d  D
-all aboard the gravy train to nowhere
-
-[bridge]
+all aboard the gravy train [to nowhere]
 F/d      C/a                 G/e   D
 and it's gonna be a long long time
 F/A            G/e				D
 all aboard the gravy train... to nowhere
 
-[Interlude / outro]
+[chorus ending]
 Neil's: F C/E G D/F#
-or Will's D/F# F C Am D
-
 
 
 [Lyrics]
 We're gonna be swimming in that dopamine sky
-You're gonna be grinning with that look in your, that look in your eye
+You're gonna be grinning with that look in your eye
 I'm gonna be laughing all the way to bank
 It's really gonna be somethin', and it's gonna be, it's gonna be...
 
-it's gonna be a long long time,
-last call, to the line [last call for platform nine]
+and it's gonna be a long long time
+last call, to the line [last call on platform nine]
 watch another year pass on by
-all aboard the gravy train, to nowhere
+all aboard the gravy train...
+and it's gonna be a long long time
+all aboard the gravy train... to nowhere
 
 you've got your ticket and your Samsonite bag
-conductor's yellin' 'bout a luggage tag, a luggage bag tag
+conductor's yellin' 'bout a luggage tag
 seat of velvet cushion in the first class
 stare out the window but nothin' moves, but nothin' moves past
 
@@ -56,24 +69,26 @@ all aboard the gravy train...
 and it's gonna be a long long time
 all aboard the gravy train... to nowhere
 
-<bridgey instrumental breakdown>
-
 your golden handcuffs keep you chained to your desk
-the company logo is pinned to your, it's pinned to your chest
+the company logo is pinned to your chest
 but when they bring to you a simple request
-you're gonna be sleeping, you're gonna be, and it's gonna be...
+but you're gonna be sleeping, you're gonna be, and it's gonna be...
 
-and it's gonna be a long long time,
+and it's gonna be a long long time
 last call, to the line
 watch another year pass on by
-all aboard the gravy train, to nowhere
+all aboard the gravy train...
+and it's gonna be a long long time
+all aboard the gravy train... to nowhere
 
-<outro instrumental same as bridge>
+
+
+
+
 
 
 Scratch notes:
 gonna reach the end of the line
-
 strumming style - emphasise bass note clearly and strum around it
 
 
