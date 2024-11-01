@@ -3,17 +3,45 @@ All aboard the gravy train
 Standard, capo 0
 
 [Chords]
-[Verse 1 - triads w/ D-pedal]
+[Intro Verse - triads w/ D-pedal]
 xx0232   D
 xx0555   Am/d
 xx0453   Em/d
 xx0553   C/d
 xx0433   G/d
 [Chorus]
+xx0565   F/d
+xx0553   C/d
+xx0787   G/d
+xx0775   D
+xx0433   G/d
+xx0232   D
+---
+xx0565   F/d
+x0x553   C/a
+0xx787   G/e
+xx0553   C/d
+x0x565   F/a
+0xx787   G/e
+[Verse]
+xx0232   D
+x02210   Am
+022000   Em
+x32010   C
+3x0003   G
+[Instrumental Bridge]
+13321x   F
+032010   C/e
+3x0003   G
+2x0232   D/F#
+[Outro]
+xx0565   F/d
+xx0553   C/d
+xx0433   G/d
+xx0232   D
 
 
-
-[Verse 1]
+[Verse]
 D                  Am           Em       D
 We're gonna be swimming in that dopamine sky
 Am                Em                  C                D
@@ -24,8 +52,7 @@ Am                      Em             G				C            D
    It's really gonna be somethin', and it's gonna be, it's gonna be...
 
 
-[chorus]
-<melodic lead in to establish the new idea and not be so relentless>
+[Chorus]
 F/d         C/d               G/d         D
 
 F/d         C/d               G/d         D
@@ -41,64 +68,70 @@ and it's gonna be a long long time
 F/A            G/e				D
 all aboard the gravy train... to nowhere
 
-[chorus ending]
-Neil's: F C/E G D/F#
+[Short instrumental bridge]
+F C/e G D/F#
+
+[Outro]
+F/d C/d G/d D
 
 
 [Lyrics]
+[Intro / Verse 1]
+You're gonna be dancin' all of the time
+We'll meet together at the end of the line
+I'm gonna be having a hell of a time
+It's really gonna be somethin', and it's gonna be, it's gonna be...
+
+[Extended Chorus]
+It's gonna be a long long time
+Just waiting to arrive
+Watch another year pass on by
+All aboard the gravy train...
+And it's gonna be a long long time
+All aboard the gravy train... to nowhere
+
+[Verse 2]
 We're gonna be swimming in that dopamine sky
 You're gonna be grinning with that look in your eye
 I'm gonna be laughing all the way to bank
 It's really gonna be somethin', and it's gonna be, it's gonna be...
 
-and it's gonna be a long long time
-last call, to the line [last call on platform nine]
-watch another year pass on by
-all aboard the gravy train...
-and it's gonna be a long long time
-all aboard the gravy train... to nowhere
+[Chorus]
+It's gonna be a long long time
+Just waiting to arrive
+Watch another year pass on by
+All aboard the gravy train to nowhere
 
-you've got your ticket and your Samsonite bag
-conductor's yellin' 'bout a luggage tag
-seat with gilded cushions in the first class
-stare out the window but nothin' moves, but nothin' moves past
+[Verse 3]
+You've got your ticket and your Samsonite bag
+Conductor's yellin' 'bout your luggage tag
+You sit and wonder how long this'll all last
+Stare out the window but nothin' moves, but nothin' moves past
 
-and it's gonna be a long long time
-last call, to the line
-watch another year pass on by
-all aboard the gravy train...
-and it's gonna be a long long time
-all aboard the gravy train... to nowhere
+[Chorus]
+It's gonna be a long long time
+Just waiting to arrive
+Watch another year pass on by
+All aboard the gravy train to nowhere
 
-your golden handcuffs keep you chained to your desk
-the company logo is pinned to your chest
-but when they bring to you a simple request
-but you're gonna be sleeping, you're gonna be, and it's gonna be...
+[Verse 4]
+Your golden handcuffs keep you chained to your desk
+The company logo is pinned to your chest
+They gave you a rolex at twenty five years
+Your clip-on neck-tie got stuck in the, stuck in the gears
 
-and it's gonna be a long long time
-last call, to the line
-watch another year pass on by
-all aboard the gravy train...
-and it's gonna be a long long time
-all aboard the gravy train... to nowhere
+[Extended Chorus]
+And it's gonna be a long long time
+Just waiting to arrive
+Watch another year pass on by
+All aboard the gravy train...
+And it's gonna be a long long time
+All aboard the gravy train... to nowhere
 
+[Short instrumental bridge]
 
+[Outro half-verse]
+You're gonna be dancin' all of the time
+We'll meet together at the end of the line
 
-
-
-
-
-Scratch notes:
-gonna reach the end of the line
-strumming style - emphasise bass note clearly and strum around it
-
-
-
-
-
-
-
-
-
-
-
+[Outro Instrumental]
