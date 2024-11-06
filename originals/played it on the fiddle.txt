@@ -51,8 +51,6 @@ Betamax recording at the Bataclan
 argued with manager in Catalan
 
 [Bridge]
-Am Em Am Em F EM
-<makin' up stories 'bout made up people...>
 
 [Chorus]
 Running along
@@ -61,7 +59,7 @@ I wonder how your life would be
 
 Pelligrini's owner had his final one
 stabbed with the metal
-bleeding on the sidewalk while he's in her|your arms
+bleeding on the sidewalk while he's in [her|your] arms
 anything can happen at a pasta bar
 
 Never know what life'll give you in the end
