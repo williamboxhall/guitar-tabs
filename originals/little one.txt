@@ -2,14 +2,12 @@ Standard, Capo 5
 Recording: https://photos.app.goo.gl/FLpXPPG2MjEGazej9
 
 [Intro]
-2/4 C   |   2/4 D   |  2/4 G  |  4/4 C  |
-
-2/4 G    |  4/4 C	||
+2/4 C   |   2/4 D   |  2/4 G  |  4/4 C  |  2/4 G    |  4/4 C	||
 
 [Verse]
 
-C             D             G        C
-Walked in the middle of the midnight run
+C             D           G        C
+Walked in the middle of a midnight run
 G              C
 Thinkin' just a little
 C          D           G      C
@@ -17,14 +15,16 @@ Stopped on Hoddle for another one
 G               C            D
 memories of the dinner conversation
 
-C             D             G        C
+C            D            G        C
 Seedy little mustard in a hotdog bun
 G              C
 cold in the middle
 C          D           G      C
-thrown on the griddle with the little one
+threw it on the griddle with the little one
 C          		   D             C		G
 wished we'd made a daughter or a son
+
+2/4 C   |   2/4 D   |  2/4 G  |  4/4 C  |  2/4 G    |  4/4 C	||
 
 [Chorus]
 C        G
@@ -51,6 +51,8 @@ hold the clutch in the middle
 steerin' with the wheelbarrow grip again
 peerin' through the rearview mirror
 
+2/4 C   |   2/4 D   |  2/4 G  |  4/4 C  |  2/4 G    |  4/4 C	||
+
 [Chorus]
 Running along
 If you were around
@@ -59,16 +61,19 @@ Running along
 If you were around
 peerin' through the rearview mirror
 
-[Verse]
-Brought you home a baby Taylor solid wood
-Bone in the saddle
-Couldn't play the barre-chords like you thought you would
-wish we'd tried as much as we could
+[Bridge with humming]
+2/4 C   |   2/4 D   |   2/4 C   |   2/4 D   |   2/4 C   |   2/4 D   |  4/4 G  |
 
+[Verse]
 Laid it down on vinyl for the final one
 played it on the fiddle
 Betamax recording at the Bataclan
 argued with manager in Catalan
+
+Brought you home a baby Taylor solid wood
+Bone in the saddle
+Couldn't play the barre-chords like you thought you would
+wish we'd tried as much as we could
 
 [Chorus]
 Running along
@@ -78,8 +83,17 @@ Running along
 If you were around
 wish we'd tried as much as we could
 
-[Bridge with humming]
-2/4 C   |   2/4 D   |   2/4 C   |   2/4 D   |   2/4 C   |   2/4 D   |  4/4 G  |
+
+
+
+
+
+
+=== scatch notes / cut vereses ===
+Consolation cuddle when you missed your friends
+Sorry for the muddle
+Jumping over puddles in your wellingtons
+Fairy bread, lucky dips and lamingtons
 
 [Verse]
 Pelligrini's owner had his final one
@@ -91,11 +105,3 @@ Never know what life'll give you in the end
 Sorry for the muddle
 Do the things you love, hug your lovers or friends
 That's what really matters in the end
-
-
-
-=== scatch notes / cut vereses ===
-Consolation cuddle when you missed your friends
-Sorry for the muddle
-Jumping over puddles in your wellingtons
-Fairy bread, lucky dips and lamingtons
