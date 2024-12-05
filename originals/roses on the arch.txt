@@ -1,0 +1,88 @@
+Roses on the arch
+
+[Picking pattern 4 strings]
+e|-------x-------x-||
+B|---x-------x-----||
+G|-----x-------x---||
+D|-x-------x-------||
+A|-----------------||
+E|-----------------||
+
+[Picking pattern 5 strings]
+e|-------x-------x-||
+B|---x-------x-----||
+G|-----x-------x---||
+D|---------x-------||
+A|-----------------||
+E|-x---------------||
+
+[Picking pattern 6 strings]
+e|-------x-------x-||
+B|---x-------x-----||
+G|-------------x---||
+D|---------x-------||
+A|-----x-----------||
+E|-x---------------||
+
+
+[Chords]
+EADGBe
+------
+xx5500  Cmaj7/G
+xx4700  Bm(add11)/F#
+xx3200  Fmaj7(add#11)
+xx2200  Esus
+xx2100  E
+------
+x35500  Cmaj7
+x24030  Bm(add11)
+1x3200  Fmaj7(add#11)
+0x2200  Esus
+0x2100  E
+------
+x24030  Bm(add11)
+x04030  Asus13
+024000  Em(add9)
+
+
+[Verse 1]
+Cmaj7/G                           Bm(add11)/F#
+Silence echoes through the dorm
+Cmaj7/G                           Bm(add11)/F#
+Violence, waves against the shore
+              Fmaj7(add#11)
+Seen it all before
+                   Esus           E
+Wished for nothing more
+
+[Verse 2]
+Cmaj7                             Bm(add11)/F#
+Sirens, nails upon the strings
+Cmaj7                             Bm(add11)/F#
+Tyrants, waiting in the wings
+                Fmaj7(add#11)
+Winter turns to spring
+                    Esus          E
+Diamond on the ring
+
+[Verse 3 or is it Chorus]
+ Bm(add11)
+Roses blooming on the arch
+ Asus13
+Sister, soldier on the march
+ Em(add9)
+Fingers on the keys
+ ???
+Bleaching in the reef
+
+[Verse 4 or is it a second Chorus moved to the end of the song]
+Roses blooming on the arch
+Stitches pulling on the thorns
+Raven at the dawn
+Whispers “nevermore”
+
+[Verse 5]
+Knowledge, serpent on the limb
+Needle, patterns in the ink
+Apple on the bough
+Wrinkle in the brow
