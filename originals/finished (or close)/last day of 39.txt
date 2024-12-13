@@ -1,16 +1,16 @@
-Last day of 39 / Most of the time
-Standard, capo 5
-recording: https://photos.app.goo.gl/y2qqGDhshmhgPN8V6
+Most of the time						[Standard, capo 5]
+Recording: https://photos.app.goo.gl/pqTCwyYvq4WmTCvk6
+
 
 [Verse 1]
-C    Am     Em G
+C    am     em 	em
 Last day of 39
-C    Am         F        G
+C    am        em     em
 Half way to the finish line
 C       Am               F                 /D7
 Like an old watch that's still keeping time...
 
-[Chorus]
+[1/2 Chorus]
 C7             F
 Most of the time
 D7                G
@@ -19,25 +19,27 @@ When I look at my life
 It's pretty alright
 
 [Instrumental]
-C Am Em G C Am F G
+C Am Em em x2
 
 [Verse 2]
-Little baby came at the dawn
 5:10 on a Sunday morn
+Little baby came at the dawn
 Feeling glad to have even been born...
 
 [Chorus]
+C7             F
 Most of the time
+D7                G
 When I look at my life
+E7             am
+Most of the time
+D7                G
+When I look at my life
+			
 It's pretty alright
 
 [Instrumental]
-C Am Em G C Am F G
-
-[Verse 3]
-And when I'm 80
-Life full of memories
-Fading words in a diary
+C Am Em em x2
 
 [Bridge]
 Em      Am
@@ -47,10 +49,31 @@ just stories in my mind
 F           D7
 I try to be kind...
 
+[1/2 Chorus]
+C7             F
+Most of the time
+D7                 G
+When I look at my life
+
+It's pretty alright
+
+[Instrumental]
+C Am Em em x2
+
+[Verse 3]
+And when I'm 83
+Life full of memories
+Fading words in a diary
+
 [Chorus]
+Most of the time
+When I look at my life
 Most of the time
 When I look at my life
 It's pretty alright
 
-[Instrumental]
-C Am Em G C Am F G
+[outro]
+most of the time
+its pretty alright
+most of the time
+C Am Em em x2
