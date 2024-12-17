@@ -1,0 +1,28 @@
+capo 5, standard
+
+[Picking pattern 4 strings]
+e|----------||
+B|-----x----||
+G|-----x----||
+D|---x---x--||
+A|-x--------||
+E|----------||
+
+x5403x - D(add9)
+x3203x - C(something)
+x2403x - Bm
+x1333x - A#
+0220xx - Em
+Xx0231 - Dm (out of key)
+x24x30 - Bm(add4)
+X04x30 - A6sus4
+
+
+D(add9)               C(something)
+Soon, something on the waves
+D(add9)               C(something)
+Soon, something on the waves
+               Bm
+Out beyond the break
+          A#
+Something mistake
