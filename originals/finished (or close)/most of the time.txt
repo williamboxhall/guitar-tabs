@@ -3,9 +3,9 @@ Recording: https://photos.app.goo.gl/pqTCwyYvq4WmTCvk6
 
 
 [Verse 1]
-C    am     em 	em
+C    Am      Em 	Em
 Last day of 39
-C    am        em     em
+C    Am      Em 	Em
 Half way to the finish line
 C       Am               F                 D7
 Like an old watch that's still keeping time...
@@ -22,9 +22,9 @@ It's pretty alright
 C Am Em em x2
 
 [Verse 2]
-First day in the natal ward
-Played a song with the umbilical chord
-Feeling glad to have even been born...
+When I was only one
+A "cat's eye" dropped in a marble run
+That Little kid had so much fun
 
 [Chorus]
 C7             F
@@ -73,9 +73,18 @@ When I look at my life
 It's pretty alright
 
 [outro]
+C Am Em em
 most of the time
+C Am Em em
 its pretty alright
-most of the time
-C Am Em em x2
+C Am F D7
 
-<extended instrumental>
+C7             F
+most of the time
+D7             G
+
+It's pretty alright
+
+[Instrumental]
+C Am Em em x4
+C
