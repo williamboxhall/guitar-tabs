@@ -1,6 +1,8 @@
 Most of the time						[Standard, capo 5]
 Recording: https://photos.app.goo.gl/pqTCwyYvq4WmTCvk6
 
+Intro
+C am em em x2
 
 [Verse 1]
 C    Am      Em 	Em
@@ -18,7 +20,7 @@ When I look at my life
 
 It's pretty alright
 
-[Instrumental]
+[intro]
 C Am Em em x2
 
 [Verse 2]
@@ -39,7 +41,7 @@ When I look at my life
 It's pretty alright
 
 [Instrumental]
-C Am Em em x2
+C Am Em em x4
 
 [Bridge]
 Em      Am
@@ -57,7 +59,7 @@ When I look at my life
 
 It's pretty alright
 
-[Instrumental]
+[intro]
 C Am Em em x2
 
 [Verse 3]
@@ -72,19 +74,23 @@ Most of the time
 When I look at my life
 It's pretty alright
 
-[outro]
+Outro
 C Am Em em
-most of the time
+
+C Am Em em
+		most of the time
 C Am Em em
 its pretty alright
-C Am F D7
 
-C7             F
-most of the time
-D7             G
+C Am F D7 G E7 am D7
+G
+ It's pretty alright
 
-It's pretty alright
+C Am Em em
 
-[Instrumental]
-C Am Em em x4
+C Am Em em
+		most of the time
+C Am Em em
+its pretty alright
+
 C
