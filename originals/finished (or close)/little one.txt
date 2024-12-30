@@ -24,8 +24,6 @@ thrown on the griddle with the little one
 C          		   D             C		G
 wished we'd made a daughter or a son
 
-2/4 C   |   2/4 D   |  2/4 G  |  4/4 C  |  2/4 G    |  4/4 C	||
-
 [Chorus]
 C        G
 Running along
@@ -39,6 +37,8 @@ C            G
 If you were around
 C          		   D             C		G
 wished we'd made a daughter or a son
+
+2/4 C   |   2/4 D   |  2/4 G  |  4/4 C  |  2/4 G    |  4/4 C	||
 
 [Verse]
 Silly little billy-cart on the hill
