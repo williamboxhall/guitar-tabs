@@ -13,7 +13,7 @@ F          G
 one in the hand
 E7          am
 two in the bush
-F          G           E7         am
+F          G           F          C
 how do you know if you don't even look
 
 C            G           am           em      F C
@@ -44,14 +44,14 @@ em              F
  why the people 'round ya
 em             D7
  have the same opinions
-F           E7/G#
+F           E7
  have the same expressions
 
 Am               E7
  let's make some enemies today
-F          D7               E7/G#
+F              E7               F
  don't want to hear a word they say
-              am          D7/F#   G7
+             D7        F    G7
 won't see it any other way
 
 
