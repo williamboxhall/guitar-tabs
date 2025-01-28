@@ -1,29 +1,40 @@
 Standard, capo 5
 
 4/4 C   |   2/4 G   |  4/4 C  |   10
-4/4 C   |   2/4 E7  |  4/4 Am |   10
-4/4 C   |   2/4 F   |  4/4 Am |   10
-e d c b |   2/4 C   |             6 = 36
+4/4 C   |   2/4 E7  |  4/4 Am |  +10
+4/4 C   |   2/4 F   |  4/4 Am |  +10
+4/4 Am  |   2/4 D7  |  4/4 G  |  +10 = 40
+
+4/4 C   |   2/4 G   |  4/4 C  |   10
+4/4 C   |   2/4 E7  |  4/4 Am |  +10
+4/4 C   |   2/4 F   |  4/4 Am |  +10
+4/4 Am  |  e d c b  |  2/4 C  |  +10 = 4
 
 
 [Verse 1 ideas]
 C           G    C
-by the Liquidambar tree
+what a sweet nostalgic scene ⚠️(is there a better word than sweet?)
 C              E7     am
-climbed up for another round
+by the Liquidambar tree ⚠️
 C              F      am
-cleaning out the guttering
+cleaning out the guttering ✅
 am            D7       G
-dad directing from the ground
+dad directing from the ground ✅
 
 C      G           C
-garden gloves with tartan trim
+borrowed shirt with rolled up sleeves ✅
 C                   E7        am
-borrowed shirt with rolled up sleeves
+mimicking my dad again ⚠️
 C              F      am
-Ladder leaning on the eaves
-        e      d   c   b   c
-and the leaves are falling down
+Ladder leaning on the eaves ✅
+am        e      d   c   b   c
+  and the leaves are falling down ✅
+
+<instrumental>
+4/4 C   |   2/4 G   |  4/4 C  |   10
+4/4 C   |   2/4 E7  |  4/4 Am |  +10
+4/4 C   |   2/4 F   |  4/4 Am |  +10
+4/4 Am  |  e d c b  |  2/4 C  |  +10 = 4
 
 
 [Verse 2 ideas]
