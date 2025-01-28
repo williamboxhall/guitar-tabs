@@ -1,17 +1,17 @@
 Standard, capo 5
 
-4/4 C   |   2/4 G   |  4/4 C  |   10
-4/4 C   |   2/4 E7  |  4/4 Am |  +10
-4/4 C   |   2/4 F   |  4/4 Am |  +10
-4/4 Am  |   2/4 D7  |  4/4 G  |  +10 = 40
+4/4 C   |   2/4 G   |  6/4 C  |
+4/4 C   |   2/4 E7  |  6/4 Am |
+4/4 C   |   2/4 F   |  6/4 Am |
+4/4 Am  |   2/4 D7  |  6/4 G  |
 
-4/4 C   |   2/4 G   |  4/4 C  |   10
-4/4 C   |   2/4 E7  |  4/4 Am |  +10
-4/4 C   |   2/4 F   |  4/4 Am |  +10
-4/4 Am  |  e d c b  |  2/4 C  |  +10 = 4
+4/4 C   |   2/4 G   |  6/4 C  |
+4/4 C   |   2/4 E7  |  6/4 Am |
+4/4 C   |   2/4 F   |  6/4 Am |
+4/4 Am  |  e d c b  |  4/4 C  |
 
 
-[Verse 1 ideas]
+[Verse 1]
 C           G    C
 what a sweet nostalgic scene ⚠️(is there a better word than sweet?)
 C              E7     am
@@ -31,44 +31,39 @@ am        e      d   c   b   c
   and the leaves are falling down ✅
 
 <instrumental>
-4/4 C   |   2/4 G   |  4/4 C  |   10
-4/4 C   |   2/4 E7  |  4/4 Am |  +10
-4/4 C   |   2/4 F   |  4/4 Am |  +10
-4/4 Am  |  e d c b  |  2/4 C  |  +10 = 4
+4/4 C   |   2/4 G   |  6/4 C  |
+4/4 C   |   2/4 E7  |  6/4 Am |
+4/4 C   |   2/4 F   |  6/4 Am |
+4/4 Am  |   2/4 D7  |  6/4 G  |
 
 
-[Verse 2 ideas]
+[Verse 2]
 
-only 10 feet away
-we kids used to play
-jumping over the sprinkler head
-secret garden behind the shed
+remember when we used to play
+leaping through the sprinkler spray
+Roses blooming on the arch
+kitten grooming gently purrs
 
-
-Gloves that would have been much too big
-While jumping over the sprinkler in the yard
-Mama with the pruning saw / Secateurs
-The roses blooming on the arch
-
+Mama with those gloves she wore
+standing with the pruning saw
+reaching with the secateurs
 And the leaves are falling down
 
-Liquidamba spikeballs
+[bridge]
+        e      d   c   b   am                       em
+And the leaves are falling down around the crescent moon
+am                       em
+waning like that wistful tune
+               F
+playing in the other room
 
-Jacaranda took the cricket bat
 
-
-the car purrs
-mum prunes with the secateurs
+[verse 3]
+autumn brings that welcome breeze
+crossword on the mantlepiece
+fingers on the ivory
 and the leaves are falling down
 
-the gloves more mother wore
-standing with that pruning saw
-under the monstera leaf
-a riley cat fast asleep
-with his lawnmower purrs
-reaching with the secateurs
-the roses blooming on the arch
-and the leave are falling down
 
 
 with secateurs my mother prunes
@@ -114,4 +109,33 @@ Up the ladder on the roof
 At my parents house wearing old gardening gloves and my dads bucket hat
 Cleaning out the gutters
 And the leaves are falling down
+
+Liquidamba spikeballs
+
+[verse 2]
+Gloves that would have been much too big
+While jumping over the sprinkler in the yard
+Mama with the pruning saw / Secateurs
+The roses blooming on the arch
+
+And the leaves are falling down
+
+Liquidamba spikeballs
+
+Jacaranda took the cricket bat
+Veranda sweet jasmine nectar
+
+
+the car purrs
+mum prunes with the secateurs
+and the leaves are falling down
+
+the gloves more mother wore
+standing with that pruning saw
+under the monstera leaf
+a riley cat fast asleep
+with his lawnmower purrs
+reaching with the secateurs
+the roses blooming on the arch
+and the leave are falling down
 
