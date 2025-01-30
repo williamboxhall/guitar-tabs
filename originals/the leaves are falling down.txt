@@ -34,7 +34,7 @@ am        e      d   c   b   c
 4/4 C   |   2/4 G   |  6/4 C  |
 4/4 C   |   2/4 E7  |  6/4 Am |
 4/4 C   |   2/4 F   |  6/4 Am |
-4/4 Am  |   2/4 D7  |  6/4 G  |
+4/4 Am  |  e d c b  |  4/4 C  |
 
 
 [Verse 2]
@@ -43,6 +43,7 @@ remember when we used to play
 leaping through the sprinkler spray
 Roses blooming on the arch
 kitten grooming gently purrs
+[hose is coiled up on the grass - roses blooming on the arch]
 
 Mama with those gloves she wore
 standing with the pruning saw
@@ -50,15 +51,31 @@ reaching with the secateurs
 And the leaves are falling down
 
 [bridge]
+
+e d c b |                         4
+6/4 am  |  6/4 em  |              12
+6/4 am  |  6/4 em  |  6/4 F   |   16
+6/4 am  |  6/4 em  |              12
+6/4 am  |  6/4 em  |  6/4 F   |   16 - add a D7 6/4?
+-- or should i hold all of these for 8/4?  or add D7 after F?
+
         e      d   c   b   am                       em
-And the leaves are falling down around the crescent moon
+And the leaves are falling down beneath a crescent moon
 am                       em
 waning like that wistful tune
                F
 playing in the other room
 
+am em am em F (D7?)
+<humming>
 
 [verse 3]
+by the window you used to play
+serenade those autumn days
+fingers on the ivory
+and the leaves are falling down
+
+
 autumn brings that welcome breeze
 crossword on the mantlepiece
 fingers on the ivory
@@ -66,40 +83,6 @@ and the leaves are falling down
 
 
 
-with secateurs my mother prunes
-on the arch the roses bloom
-and the leaves are falling down
-
-litter rotters on the veranda
-beating up the jacaranda
-with their bats
-
-
-[Verse 3 ideas]
-My parents getting on in years
-TV on for longer hours
-Hearing aids on the charger
-Deep into autumn now
-And the leaves are falling down
-
-[bridge ideas]
-Sitting in the study
-With my dads old knockoff Martin dreadnought
-Writing this song
-turn a house into a home (ending on C, musical home)
-
-
-
-
-
-
-
-
-
-
-
-
-trowel in her pocket
 
 
 [scratch notes]
@@ -125,7 +108,6 @@ Liquidamba spikeballs
 Jacaranda took the cricket bat
 Veranda sweet jasmine nectar
 
-
 the car purrs
 mum prunes with the secateurs
 and the leaves are falling down
@@ -139,3 +121,25 @@ reaching with the secateurs
 the roses blooming on the arch
 and the leave are falling down
 
+with secateurs my mother prunes
+on the arch the roses bloom
+and the leaves are falling down
+
+trowel in her pocket
+
+litter rotters on the veranda
+beating up the jacaranda
+with their bats
+
+[Verse 3 ideas]
+My parents getting on in years
+TV on for longer hours
+Hearing aids on the charger
+Deep into autumn now
+And the leaves are falling down
+
+[bridge ideas]
+Sitting in the study
+With my dads old knockoff Martin dreadnought
+Writing this song
+turn a house into a home (ending on C, musical home)
