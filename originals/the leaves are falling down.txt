@@ -1,5 +1,6 @@
 Standard, capo 5
 
+<verse>
 4/4 C   |   2/4 G   |  6/4 C  |
 4/4 C   |   2/4 E7  |  6/4 Am |
 4/4 C   |   2/4 F   |  6/4 Am |
@@ -10,6 +11,17 @@ Standard, capo 5
 4/4 C   |   2/4 F   |  6/4 Am |
 4/4 Am  |  e d c b  |  4/4 C  |
 
+<bridge>
+e d c b |                         4
+6/4 am  |  6/4 em  |              12
+6/4 am  |  6/4 em  |  6/4 F   |   16
+6/4 am  |  6/4 em  |              12
+6/4 am  |  6/4 em  |  6/4 F   |   16 - add a D7 6/4?
+-- or should i hold all of these for 8/4?  or add D7 after F?
+
+[Intro]
+C           G    C
+C           G    C
 
 [Verse 1]
 C           G    C
@@ -31,12 +43,7 @@ Ladder leaning on the eaves ✅
 am        e      d   c   b   c
   and the leaves are falling down ✅
 
-<instrumental>
-4/4 C   |   2/4 G   |  6/4 C  |
-4/4 C   |   2/4 E7  |  6/4 Am |
-4/4 C   |   2/4 F   |  6/4 Am |
-4/4 Am  |  e d c b  |  4/4 C  |
-
+<instrumental verse>
 
 [Verse 3]
 remember when we used to play ✅
@@ -52,14 +59,6 @@ reaching with the secateurs ✅
 And the leaves are falling down ✅
 
 [bridge]
-
-e d c b |                         4
-6/4 am  |  6/4 em  |              12
-6/4 am  |  6/4 em  |  6/4 F   |   16
-6/4 am  |  6/4 em  |              12
-6/4 am  |  6/4 em  |  6/4 F   |   16 - add a D7 6/4?
--- or should i hold all of these for 8/4?  or add D7 after F?
-
         e      d   c   b   am                       em
 And the leaves are falling down beneath a [golden] crescent moon
 am                       em
@@ -70,28 +69,13 @@ playing in the other room
 am em am em F (D7?)
 <humming>
 
+C  G  C
+
 [verse 3]
-droplets on the window pane
-serenade those autumn days
-fingers on the ivory
-and the leaves are falling down
-
-
-
-
-tunes you sometimes still play
-serenade those autumn days
-fingers on the ivory
-and the leaves are falling down
-
-
-autumn brings that welcome breeze
-crossword on the mantlepiece
-fingers on the ivory
-and the leaves are falling down
-
-
-
+droplets on the window pane ⚠️
+serenade those autumn days ⚠️
+fingers on the ivory ⚠️
+and the leaves are falling down ⚠️
 
 
 
@@ -152,6 +136,17 @@ TV on for longer hours
 Hearing aids on the charger
 Deep into autumn now
 And the leaves are falling down
+
+tunes you sometimes still play
+serenade those autumn days
+fingers on the ivory
+and the leaves are falling down
+
+
+autumn brings that welcome breeze
+crossword on the mantlepiece
+fingers on the ivory
+and the leaves are falling down
 
 [bridge ideas]
 Sitting in the study
