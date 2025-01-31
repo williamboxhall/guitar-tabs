@@ -1,8 +1,10 @@
 Standard, capo 5
 
 <verse>
-4/4 C   |   2/4 G   |  6/4 C  |
-4/4 C   |   2/4 E7  |  6/4 Am |
+3/4 C   /   G   |   C  /  / |
+
+ C   /    E7  |   Am  /  /	|
+
 4/4 C   |   2/4 F   |  6/4 Am |
 4/4 Am  |   2/4 D7  |  6/4 G  |
 
@@ -17,9 +19,9 @@ e d c b |                         4
 6/4 am  |  6/4 em  |  6/4 F   |   16
 6/4 am  |  6/4 em  |              12
 6/4 am  |  6/4 em  |  6/4 F   |   16 - add a D7 6/4?
--- or should i hold all of these for 8/4?  or add D7 after F?
 
-[Intro]
+
+[Intro1 ]
 C           G    C
 C           G    C
 
@@ -43,7 +45,7 @@ Ladder leaning on the eaves ✅
 am        e      d   c   b   c
   and the leaves are falling down ✅
 
-<instrumental verse>
+<intro 2: instrumental 1/2 verse>
 
 [Verse 3]
 remember when we used to play ✅
@@ -60,21 +62,20 @@ And the leaves are falling down ✅
 
 [bridge]
         e      d   c   b   am                       em
-And the leaves are falling down beneath a [golden] crescent moon
+And the leaves are falling down beneath a crescent moon
 am                       em
-waning like that [distant] wistful tune
+waning like that wistful tune
                F
 playing in the other room
 
-am em am em F (D7?)
+am em am em F F  F F
 <humming>
-
-C  G  C
 
 [verse 3]
 droplets on the window pane ⚠️
 serenade those autumn days ⚠️
 fingers on the ivory ⚠️
+and the leaves are falling down ⚠️
 and the leaves are falling down ⚠️
 
 
