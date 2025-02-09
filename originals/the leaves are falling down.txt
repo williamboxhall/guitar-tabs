@@ -1,4 +1,4 @@
-Standard, capo 5
+Standard, capo 4
 
 <verse>
 3/4 C   /   G   |   C  /  / |
@@ -27,36 +27,35 @@ C           G    C
 
 [Verse 1]
 C           G    C
-what a sweet nostalgic scene ⚠️(is there a better word than sweet?)
+what a sweet nostalgic scene
 C              E7     am
-by the Liquidambar tree ⚠️
+spinning in my head again
 C              F      am
-cleaning out the guttering ✅
+while cleaning out the guttering
 am            D7       G
-dad directing from the ground ✅
+dad directing from the ground
 
 [Verse 2]
 C      G           C
-borrowed shirt with rolled up sleeves ✅
+borrowed shirt with rolled up sleeves
 C                   E7        am
-mimicking my dad again ⚠️ (doesn't rhyme, but kinda good?)
+mimicking your look again
 C              F      am
-Ladder leaning on the eaves ✅
+the ladder's leaning on the eaves
 am        e      d   c   b   c
-  and the leaves are falling down ✅
+  and the leaves are falling down
 
 <intro 2: instrumental 1/2 verse>
 
 [Verse 3]
 remember when we used to play ✅
 leaping through the sprinkler spray ✅
-Roses blooming on the arch ✅
-kitten grooming gently purrs ⚠️(something to link to verse 4?)
-[hose is coiled up on the grass?]
+Somewhere there you lost your way
+barely see you any more
 
 [Verse 4]
 Mama with those gloves she wore ✅
-brandishing the pruning saw ✅
+by the roses, callin' us
 reaching with the secateurs ✅
 And the leaves are falling down ✅
 
@@ -70,8 +69,55 @@ playing in the other room
 
 am em am em F F  F F
 <humming>
+e|--------|--------|--------||
+B|------1-|------1-|------1-||
+G|--2-----|--2-----|--2-----||
+D|----3---|----3---|----3---||
+A|--------|--------|--------||
+E|1-------|1-------|1-------||x2
 
-[verse 3]
+e|--------|--0-----|--------|
+B|------0h|1-------|--2-----|
+G|--2-----|------0h|2-----2-|
+D|----3---|----3---|----3---|
+A|--------|--------|--------|
+E|1-------|1-------|3-------|
+
+e|------3-|--0-----|--------|
+B|--------|--------|--2-----|
+G|--2-----|------0h|2-----2-|
+D|----3---|----3---|----3---|
+A|--------|--------|--------|
+E|1-------|1-------|3-------|
+
+[verse 5]
+piano in the dining room
+you only play when you're alone
+echoes through an empty home
+fingers on the ivory
+
+[verse 6]
+keep my eyes ahead of me
+autumn's auburn on the trees
+the days are getting shorter now
+and the leaves are falling down
+and the leaves are falling down
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 droplets on the window pane ⚠️
 serenade those autumn days ⚠️
 fingers on the ivory ⚠️
@@ -141,6 +187,7 @@ And the leaves are falling down
 tunes you sometimes still play
 serenade those autumn days
 fingers on the ivory
+playing in an empty house
 and the leaves are falling down
 
 
@@ -154,3 +201,21 @@ Sitting in the study
 With my dads old knockoff Martin dreadnought
 Writing this song
 turn a house into a home (ending on C, musical home)
+
+
+[structure]
+scene setting: I'm on the ladder cleaning the gutters, and having this epiphany about how im building nostalgia now, in a place already connected with a lot of old nostalgia
+
+flashback: playing in the garden with my sister, who im no longer close with, because she's gone off the rails / become radical and hard to be around
+
+<what's the function of my mum here, is it just to continue the leaves falling metaphor?>
+
+<bridge>
+a metaphor about night time, crescent moon is night, but also our street, the passing of time and these memories fading like a "Wistful tune". So leaves are memories of past experiences? what's in the other room
+
+mum still plays piano sometimes in the other room
+when dad's out of the house, because he never liked it much
+but they lead a good life now
+days are getting shorter - less days left
+by the window the leaves are falling down
+
