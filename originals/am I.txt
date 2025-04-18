@@ -1,27 +1,8 @@
 [Intro]
-Em A Em A
-
-[Verse]
-Em         A                 Em                   A
-Jack Horner, sat in his room, with his Christmas Pie
-Bm          A7                         Em A
-Jack Horner, with that look in his eye
-Em         A                           Em A7
-na na na na, with that look in his eye
-
-[Pre-Chorus]
-D      D/C        G/B
-When he, put his thumb
-D       D/C       G/B
-and he pulled out another one
-
-[Chorus]
- D      D/C      G/B     Gm/Bb
-"What a good boy, what a good boy am I!"
  D      D/C      D/B
  D      D/C      D/B
 
-[Verse]
+[Verse 1]
 Em                  A              Em                       A
 When I saw your face, staring at me, through the window pane
 Bm                   A7                      Em A
@@ -29,42 +10,70 @@ When I saw you I knew, I'd never be the same
 Em         A               Em  A7
 na na na na, never be the same
 
-[Pre-chorus]
-D    D/C     G/B
-Am I, givin' up
-D      D/C    G/B
-givin' up on another one
+[Pre-Chorus]
+D      D/C        G/B
+When he put his thumb
+D       D/C       G/B
+in and pulled out another one
 
 [Chorus]
  D      D/C      G/B     Gm/Bb
-What a good boy, what a good boy, am I?
+"What a good boy, what a good boy am I!"
+
+D      D/C      D/B
+D      D/C      D/B
+
+[Verse 2]
+
+Em         A                 Em                   A
+Jack Horner, sat in his room, with his Christmas Pie
+Bm          A7                         Em A
+he looked at me, with that look in his eye
+Em         A                           Em A7
+na na na na, with that look in his eye
+
+[Pre-Chorus]
+D      D/C        G/B
+When he put his thumb
+D       D/C       G/B
+in and pulled out another one
+
+[Chorus]
  D      D/C      G/B     Gm/Bb
-                               am I?
+"What a good boy, what a good boy am I!"
+
+ D      D/C      G/B
  D      D/C      D/B
 
 
 [Bridge]
-F#m         G              Em                       A
-Am I gonna tell another one that she's being sent packing again?
-F#m         G              Em                       A
+am         		G              Em                       A
 Do I really need another plum, or another fair weather friend?
 F#m         G              Em                       A
-Am I in the corner with my friend Jack Horner?
+Do I really need
 Em              A7
 na na na na na
 
+[Pre-Chorus]
+D      D/C        G/B
+When he put his thumb
+D       D/C       G/B
+in and pulled out another one
+
+[Chorus 3]
+ D      D/C      G/B     Gm/Bb
+"What a good boy, what a good boy am I!"
+
+[Pre-Chorus]
+D      D/C        G/B
+When he put his thumb
+D       D/C       G/B
+in and pulled out another one
+
+[Chorus]
+ D      D/C      G/B     Gm/Bb
+"What a good boy, what a good boy am I!"
+
 [chorus/outro]
 D      D/C      G/B
-when he put his gun
-D       D/C     G/B
-put his gun to another one
- D      D/C      G/B     Gm/Bb
-What a good boy, what a good boy, am I?
- D      D/C      G/B     Gm/Bb
-                 what a good boy, am I?
- D      D/C      G/B     Gm/Bb
-                 what a good boy, am I?
- D      D/C      G/B     Gm/Bb
-                               am I?
-D      D/C      D/B
-D      D/C      D/B
+D      D/C      G/B 	D
