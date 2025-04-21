@@ -18,24 +18,46 @@ A|3-----3-3-----3-|3-----3-3---3---|3-----3-3-----3-|3-----3-3---3---|
 E|----------------|----------------|----------------|----------------|
 
 [Verse 1]
+x       stepwise passing small jump down
+c nc nc c nc             nc c nc c nc nc
+5 6  7  1 7 7            7  1 2  3 4  2
 Csus2                    Am
   There is freedom within,  there is freedom without
+
+neighbor notes descend stepwise
+c nc c nc nc c nc   anticipation ->    resolution
+3 2  3 2  2  1 7 7                   1
 F                                    E     Asus2/E
   Try to catch the deluge in a paper cup
+
 Csus2                    Am
   There's a battle ahead,   many battles are lost
 F
   But you'll never see the end of the road
-             E
+
+             c nc c
+             1 2  1 (back to F)
+             E <- borrowed major 3rd out of key
 while you're travelling with me
 
 [Chorus]
+downleaps               up leap then stepwise down
+nc c    c nc c 1        c c        nc c
+7  3    5 7  2 1        5 3        4  3
 F        G              C          Am
 Hey now, hey now, don't dream it's over
 F        G                 C           Am
 Hey now, hey now, when the world comes in
+
+        1->5 bridge  c c nc c             nc c
+                     5 5 6  1             4  3
 F          G         C                    Am
 They come, they come   to build a wall between us
+
+
+c c c nc c nc c
+3 5 3 6  3 2  3
+
 F                        F   G
   We know they won't win
 
