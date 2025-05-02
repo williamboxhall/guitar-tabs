@@ -35,7 +35,9 @@ D      D/C      G/B
 in and pulled out another one
 D      D/C      G/B     Gm/Bb
 "What a good boy, what a good boy, am I?"
-D      D/C      D/B     Gm/Bb    A7    G
+D      D/C      D/B
+                 Am I?
+D      D/C      D/B
 
 [Bridge]
 Am                 G                        Em                  A
@@ -64,6 +66,8 @@ D      D/C      G/B     Gm/Bb
 "What a good boy, what a good boy, am I?"
 D      D/C      G/B
 D      D/C      G/B 	D
+
+<instrumental>
 
 
 
