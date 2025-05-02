@@ -5,12 +5,12 @@ D      D/C      G/B
 [Verse 1]
 Em         A                 Em                   A
 Jack Horner, sat in his room, with his Christmas Pie
-Bm          A7                         Em A
+Em          A7                         	Em A
 and he looked at me, with that look in his eye
-Em                      A                           Em A7
-doo doo doo doo noo noo, with that look in his eye
+Bm                      A                           Em A7
+na na na na na na, with that look in his eye
 
-[Chorus]
+[Chorus 1]
 D      D/C      G/B
 Then he put his thumb
 D      D/C      G/B
@@ -23,12 +23,12 @@ D      D/C      D/B
 [Verse 2]
 Em                  A              Em                       A
 When I saw your face, staring at me, through the window pane
-Bm                   A7                      Em A
+Em                   A7                      Em A
 When I saw you I knew, I'd never be the same
-Em               A                  Em  A7
+Bm               A                  Em  A7
 na na na na na na, never be the same
 
-[Chorus]
+[Chorus 2]
 D      D/C      G/B
 Then he put his thumb
 D      D/C      G/B
@@ -42,37 +42,32 @@ D      D/C      D/B
 [Bridge]
 Am                 G                        Em                  A
 Do I need to eat a little bit of humble, a little piece'o of humble pie
-F#m         		G              Em                       A
-Am I really gonna to sit around grumble, missing you and wondrin' why
+
 F#m         		G              Em                       A
 Do I really need another plum, or another pocket full of rye
-F#m         G              Em                       A
-Stuck in the corner with my friend Jack Horner?
-Em              A7
+
+Bm              A7
 na na na na na
 
-[Chorus / Outro]
+
+[Chorus 3]
 D      D/C      G/B
 Then he put his thumb
 D      D/C      G/B
 in and pulled out another one
 D      D/C      G/B     Gm/Bb
 "What a good boy, what a good boy, am I?"
+
+[Outro]
 D      D/C      G/B
-Then he put his thumb
+
 D      D/C      G/B
-in and pulled out another one
+Then he pulled out another one
 D      D/C      G/B     Gm/Bb
 "What a good boy, what a good boy, am I?"
+
 D      D/C      G/B
-D      D/C      G/B 	D
-
-<instrumental>
-
-
-
-Notes
-====
- [lacking peace and wondrin' why]
-Jack Horner represents the greed and indulgence that we all have sitting in our subsconscious
-
+D      D/C      G/B
+what a good boy, am I?"
+D	D/C    G/B
+D	D/C      G/B 	D
