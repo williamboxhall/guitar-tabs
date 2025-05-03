@@ -5,9 +5,9 @@ D      D/C      G/B
 [Verse 1]
 Em         A                 Em                   A
 Jack Horner, sat in his room, with his Christmas Pie
-Em          A7                         	Em A
+Bm          A7                         	Em A
 and he looked at me, with that look in his eye
-Bm                      A                           Em A7
+Em                      A                           Em A7
 na na na na na na, with that look in his eye
 
 [Chorus 1]
@@ -23,9 +23,9 @@ D      D/C      D/B
 [Verse 2]
 Em                  A              Em                       A
 When I saw your face, staring at me, through the window pane
-Em                   A7                      Em A
+Bm                   A7                      Em A
 When I saw you I knew, I'd never be the same
-Bm               A                  Em  A7
+Em               A                  Em  A7
 na na na na na na, never be the same
 
 [Chorus 2]
@@ -42,11 +42,9 @@ D      D/C      D/B
 [Bridge]
 Am                 G                        Em                  A
 Do I need to eat a little bit of humble, a little piece'o of humble pie
-
 F#m         		G              Em                       A
 Do I really need another plum, or another pocket full of rye
-
-Bm              A7
+Em              A7
 na na na na na
 
 
@@ -64,10 +62,12 @@ D      D/C      G/B
 D      D/C      G/B
 Then he pulled out another one
 D      D/C      G/B     Gm/Bb
-"What a good boy, what a good boy, am I?"
-
+                "what a good boy, am I?"
+D      D/C      G/B
+                  am I?
+D      D/C      G/B
+<fingerpicked>
 D      D/C      G/B
 D      D/C      G/B
-what a good boy, am I?"
-D	D/C    G/B
-D	D/C      G/B 	D
+D      D/C      G/B     Gm/Bb
+D
