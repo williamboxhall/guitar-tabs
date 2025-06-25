@@ -4,29 +4,76 @@ https://www.youtube.com/watch?v=AwLSwOn4njM&ab_channel=ESP
 
 (C G C E A D) or just DADF#BE
 
+Assuming Key of D
+Verse
+D F#m D F#m
+I iii I iii
+
+Short Chorus
+G  A7
+IV V7
+
+Bridge
+G  A  D  E
+IV V  I  II
+G  E  G  A7
+IV II IV V7
+
+Verse
+D F#m D F#m
+I iii I iii
+
+Full Chorus
+ A# G D E
+bVI V I II
+G  A7
+IV V7
+
+Outro
+D
+I
+
 [Verse 1]
+D
 They're waking you up to close the bar
+                                                   F#m
 The street's wet, you can tell by the sound of the cars
+D
 The bartender's singing "Clementine"
+                                   F#m
 While he's turning around the open sign
 
-[Chorus]
+[Short Chorus]
+G               A7
 "Dreadful sorry, Clementine"
 
 [Bridge]
+G                        A
 Though you're still her man
+           D          E
 It seems a long time gone
+G                        E
 Maybe the whole thing's wrong
+G                    A7
 What if she thinks so but just didn't say so?
 
 [Verse 2]
+D
 You drank yourself into slow-mo
+                     F#m
 Made an angel in the snow
+D
 Anything to pass the time
+                               F#m
 And keep that song out of your mind
 
 [Chorus]
+Bb
 "(Oh) Oh my darling
+G
 (Oh) Oh my darling
+      D        E
 Oh my darling, Clementine
+G               A7
 Dreadful sorry, Clementine"
+D
