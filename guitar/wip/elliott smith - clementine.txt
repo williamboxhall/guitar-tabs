@@ -6,12 +6,12 @@ https://www.youtube.com/watch?v=AwLSwOn4njM&ab_channel=ESP
 
 Assuming Key of D
 Verse
-D F#m D F#m
-I iii I iii
+D F#7  D  F#7
+I III7  I III7
 
 Short Chorus
-G  A7
-IV V7
+G  A7  D
+IV V7  I
 
 Bridge
 G  A  D  E
@@ -20,11 +20,11 @@ G  E  G  A7
 IV II IV V7
 
 Verse
-D F#m D F#m
-I iii I iii
+D F#7  D  F#7
+I III7  I III7
 
 Full Chorus
- A# G D E
+ Bb G D E
 bVI V I II
 G  A7
 IV V7
@@ -36,7 +36,7 @@ I
 [Verse 1]
 D
 They're waking you up to close the bar
-                                                   F#m
+                                                   F#7
 The street's wet, you can tell by the sound of the cars
 D
 The bartender's singing "Clementine"
@@ -44,7 +44,7 @@ The bartender's singing "Clementine"
 While he's turning around the open sign
 
 [Short Chorus]
-G               A7
+G               A7          D
 "Dreadful sorry, Clementine"
 
 [Bridge]
@@ -60,11 +60,11 @@ What if she thinks so but just didn't say so?
 [Verse 2]
 D
 You drank yourself into slow-mo
-                     F#m
+                     F#7
 Made an angel in the snow
 D
 Anything to pass the time
-                               F#m
+                               F#7
 And keep that song out of your mind
 
 [Chorus]
