@@ -1,27 +1,26 @@
 A dorian
 
-E          B                        <- vox
+Intro C D/F# am 
+                      
 Am    d7   Am    d7                 <- guitar
 Curse      you
-Am               D7         Am   Am
+Am               D7         Am   |Am D7|
 with your golden point of view
 
 Am    D7   Am    D7
 Worst      friend
-Am               D7     Am   Am
+Am               D7     |Am  | Am D7 |
 love you to the bitter end
 
-C     B7  Em7           A7
+C     | B7  |Em           |A7.   |
 Curse you to the bitter end
-C     D/F#  Am
+C     D/F# | Am  | Am D7 |Am  | Am D7 |
 Curse you   friend
 
 
 
 
 
-
-
 [verse]
 i    IV7   i    IV7
 i    IV7   i    i
@@ -43,10 +42,8 @@ i    IV7   i    i
 [chorus]
 III  V7/V  v7   V7/IV
 III  IV    [i    IV7   i    i]
+
+Extended end of ch. instrumental
 
 [bridge??]
-i    IV7   VIImaj7  V7/ii
-III  IV    [i    IV7   i    i]
-
-
-
+Gmaj7 x2  F#7. Bm. E  A
