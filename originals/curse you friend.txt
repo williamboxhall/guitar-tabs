@@ -1,7 +1,8 @@
 A dorian
 
 Intro C D/F# am 
-                      
+
+[verse]
 Am    d7   Am    d7                 <- guitar
 Curse      you
 Am               D7         Am   |Am D7|
@@ -12,10 +13,34 @@ Worst      friend
 Am               D7     |Am  | Am D7 |
 love you to the bitter end
 
+[pre-ch -> refrain]
 C     | B7  |Em           |A7.   |
 Curse you to the bitter end
-C     D/F# | Am  | Am D7 |Am  | Am D7 |
+C     D/F#  Am     D7  Am Am D7
 Curse you   friend
+
+[verse]
+Am    d7   Am    d7
+When you sing me
+Am               D7         Am   |Am D7|
+Sing to me your same old tune
+
+Am    d7   Am    d7
+When you give me sorrow
+Am               D7         Am   |Am D7|
+I give it back on borrowed time
+
+[pre-ch -> refrain]
+C     | B7  |Em                 |A7.   |
+You give me   [a] little piece of mind
+C     D/F#  Am     D7  Am Am D7
+Curse you   friend
+
+[bridge]
+Gmaj7 x2  F#7. x2  Bm. x2 Em x2
+Gmaj7 x2  F#7. x2  Bm. x2 Em x2
+A7 x2
+
 
 
 
