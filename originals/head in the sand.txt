@@ -1,7 +1,9 @@
 capo5
 
-INTRO
+[Intro]
+C G am em F C F G
 
+[Verse]
 C            G              am         em       F   C
 stained your hands with the ink of the same old pages
 F         G
@@ -11,16 +13,15 @@ rowed your boat to the algorithmic island
      F           G
 with all of your friends
 
-P-CH1 +REFRAIN COMPRESSION
+[Short chorus]
 F          G
 one in the hand
 E7          am
 two in the bush
 F          G           F          C
-how do you know when your head's in the sand.
+how do you know if you don't even look
 
-VERSE 2
-
+[Verse 2]
 C            G           am           em      F C
 scrolled yourself to the bottom of an endless mire
   F           G
@@ -30,8 +31,7 @@ Twitter Voxmag Instagram Daily wire
 F           G
 black and white
 
-P-CH2
-
+[Chorus]
 F          G
 one in the hand
 E7          am
@@ -40,31 +40,12 @@ F          G
 how do you know
 E7         am
 if you don't even look
-
-REFRAIN
-F.     F.     G.   G.
-
-F          G           F          C
-how do you know when your head's in the sand.
-
-
-VERSE 3
-C            G           am           em      F C
-scrolled yourself to the bottom of an endless mire
-  F           G
-night after night
-C          G   am        em    F  C
-Twitter Voxmag Instagram Daily wire
-F           G
-black and white
-
-
-
-P-CH3 + REFRAIN 3
-
-
-MIDDLE 8
-
+F          G
+one in the hand
+E7          am
+two in the bush
+F          G
+head in the sand
 
 C7             F
  and don't you wonder
@@ -93,6 +74,28 @@ F          G
 how do you know
 E7         am
 if you don't even look
+
+
+
+
+VERSE 3
+C            G           am           em      F C
+scrolled yourself to the bottom of an endless mire
+  F           G
+night after night
+C          G   am        em    F  C
+Twitter Voxmag Instagram Daily wire
+F           G
+black and white
+
+
+
+P-CH3 + REFRAIN 3
+
+
+MIDDLE 8
+
+
 
 REFRAIN
 F.     F.     G.   G.

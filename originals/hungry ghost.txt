@@ -88,10 +88,10 @@ look over here
 can anyone see me
 with your wandering eyes watching the same endless sights
 
-[verse 2]
+[verse  ]
 faces move left and right
-a garden of earthly delights
-putting all ghosting aside
+in the garden of earthly delights
+(but) putting all ghosting aside
 never satisfied
 we're calling into the void
 
@@ -115,6 +115,143 @@ all we wanted was endless bliss
 how did it come to this
 we're calling into the void
 
+
+
+[structure]
+[intro]
+| D D | G D | D D | G D |
+
+[verse]
+  D D          G       A
+    how did it come to this
+      G    A                  G     D
+we're all walking through the same abyss
+
+  D D           Em        A
+    have you heard the myth (of the...)
+  Em      A           G        D
+  hungry ghost on its endless quest
+
+[pre-chorus]
+  D     G         A          D
+   he's calling in to the void
+
+
+[chorus]
+  D    D             D D
+    is this thing on
+  D     D          D   D
+    can anyone hear me
+  A7      A7        em  em
+    or is everyone      singin' their...
+   A7 A7       D    D
+own   hungry songs
+
+  D      D           D D
+    look over here
+  D     D        D     D
+    can anyone see me
+  A7          A7           Em    Em
+    with your wandering eyes     watching the...
+   A7     A7       D          D
+     same endless    sights
+
+
+  F#m F#m           Em            A
+      What have we done to deserve this
+  F#m F#m          Em   A
+      How did it come to this?
+  F#m      F#m       G   [A]
+    All we wanted endless bliss
+
+A A A A
+
+[verse]
+  D D          G       A
+    how did it come to this
+      G         A    G   D
+we're calling into void
+
+
+
+
+
+[just chords]
+ D  D  G  D
+ D  D  G  D
+
+ D  D  G  A  G  A  G  D 
+ D  D  Em  A  Em  A  G  D
+ D  G  A  D
+
+ D  D  D  D
+ D  D  D  D
+ A7  A7  Em  Em
+ A7  A7  D  D
+
+ D  D  D  D
+ D  D  D  D
+ A7  A7  Em  Em
+ A7  A7  D  D
+
+ D  D  G  A  G  A  G  D 
+ D  D  Em  A  Em  A  G  D
+ D  G  A  D
+
+ D  D  D  D
+ D  D  D  D
+ A7  A7  Em  Em
+ A7  A7  D  D
+
+ D  D  D  D
+ D  D  D  D
+ A7  A7  Em  Em
+ A7  A7  D  D
+
+ F#m  F#m  Em  A
+ F#m  F#m  Em  A
+ F#m  F#m  G  A
+
+ D  D  G  A  G  A  G  D 
+
+
+[ for onemotion https://www.onemotion.com/chord-player/ ]
+2D 2D 2G 2D
+2D 2D 2G 2D
+
+2D 2D 2G 2A 2G 2A 2G 2D
+2D 2D 2Em 2A 2Em 2A 2G 2D
+2D 2G 2A 2D
+
+2D 2D 2D 2D
+2D7 2D7 2D7 2D7
+2A7 2A7 2Em 2Em
+2A7 2A7 2D 2D
+
+2D 2D 2D 2D
+2D7 2D7 2D7 2D7
+2A7 2A7 2Em 2Em
+2A7 2A7 2D 2D
+
+2D 2D 2G 2A 2G 2A 2G 2D
+2D 2D 2Em 2A 2Em 2A 2G 2D
+2D 2G 2A 2D
+
+2D 2D 2D 2D
+2D7 2D7 2D7 2D7
+2A7 2A7 2Em 2Em
+2A7 2A7 2D 2D
+
+2D 2D 2D 2D
+2D7 2D7 2D7 2D7
+2A7 2A7 2Em 2Em
+2A7 2A7 2D 2D
+
+2F#m 2F#m 2Em 2A
+2F#m 2F#m 2Em 2A
+2F#m 2F#m 2G 2A
+
+2D 2D 2G 2A 2G 2A 2G 2D
 
 
 

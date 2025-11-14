@@ -36,8 +36,6 @@ Being Alive
       C
 Being Alive
 
-<transpose up a half step, or not>
-
 [Verse 3]
 C
 Someone you have to let in
@@ -49,33 +47,6 @@ Someone who, like it or not
 Will want you to share
             G7
 A little, a lot
-
-[Verse 4]
-C
-Someone to crowd you with love
-                        Fm
-Someone to force you to care
-A5                       F
-Someone to make you come through
-                 Dm7
-Who'll always be there
-                 Dm7/G        G7
-As frightened as you of being alive
-
-[Chorus]
-G7
-Being Alive
-G7
-Being Alive
-      C
-Being Alive
-
-[Verse 1b]
-Somebody hold me too close
-Somebody hurt me too deep
-Somebody sit in my chair and ruin my sleep
-And make me aware of being alive
-Being alive
 
 [Verse 2b]
 Somebody need me too much
@@ -92,10 +63,11 @@ Make me confused
 Mock me with praise
           Bsus2
 Let me be used
-        G7
+        G
 Vary my days
 G/Dm7
 But alone is alone
+G7
 Not alive
 
 [Outro verse]
@@ -104,11 +76,12 @@ Somebody crowd me with love
                      Fm
 Somebody force me to care
 A5                F
-Somebody let come through
+Somebody make me through
                Dm7
 I'll always be there
                  Dm7/G           G7
 As frightened as you, to help us survive
 Being alive
 Being alive
+      C
 Being alive
