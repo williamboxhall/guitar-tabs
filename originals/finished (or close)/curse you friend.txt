@@ -1,6 +1,71 @@
 Capo 4
 
 [intro]
+| C   %   D/F# |
+
+[verse]
+| Am  %   D7 |
+| Am  %   D7 |
+| Am  %   D7 |
+| Am  %  %   D7 |
+| Am  %   D7 |
+| Am  %   D7 |
+| Am  %   D7 |
+| Am  %  %   D7 |
+
+[chorus]
+| C   %   B7   %  | Em  %  A7  %  |
+| C   %   D/F# |
+
+[short instrumental]
+| Am  %   D7 |
+| Am  %  %   D7 |
+
+[verse]
+<as above>
+
+[ext. chorus]
+| C   %   B7   %  | Em  %  A7  %  |
+| C   %   D/F# | Em  %  A7 |
+| C   %   B7   %  | Em  %  A7  %  |
+| C   %   D/F# |
+
+[instrumental]
+| Am  %   D7 |
+| Am  %  %   D7 |
+| Am  %   D7 |
+| Am  %  %   D7 |
+
+[bridge]
+| Gmaj7  % | Gmaj7  % |
+| F#7    % | F#7    % |
+| Bm     %  E7 | Bm   %   %  E7 |
+
+| Gmaj7  % | Gmaj7  % |
+| F#7    % | F#7    % |
+| Em     % | Em     % |
+| A7     % | A7     % |
+
+[short instrumental]
+| Am  %   D7 |
+| Am  %  %   D7 |
+
+[verse]
+<as above>
+
+[ext. chorus]
+<as above>
+
+[outro]
+| Em  %  A7 |
+| Em  %  %  A7 |
+| Em  %  A7 |
+| Em  %  %  A7 |
+| Em ...
+
+
+
+[intro]
 [instrumental]
 [Verse 1]
 Curse you, with your golden point of view
@@ -11,15 +76,17 @@ Curse you to the bitter end
 Curse you friend
 
 [instrumental]
+
 [Verse 2]
 Sing me, sing to me your same old tune
 I'm with you 'til the end, I play along and keep in time
 
 [Chorus 2 ext.]
-Curse you to the bitter end
-Curse you friend
 Hurt you 'til you make it worse
 Curse you friend
+Curse you to the bitter end
+Curse you friend
+
 
 [instrumental 2x]
 
@@ -32,20 +99,26 @@ to another day
 hoping you'll fall
 under my curse
 
-[instrumental 2x]
+[instrumental]
 [verse]
 Curse you, with your golden point of view
 Worst friend, love you to the bitter end
 
 [Chorus 3 ext.]
-Curse you to the bitter end
-Curse you friend
 Love you til we make it through
 Curse you friend
+Curse you to the bitter end
+Curse you friend
 
-[instrumental 2x]
+[outro 2x]
 
 
+
+
+
+
+
+[ old scratch notes ]
 Intro C D/F# am 
 
 [verse 1]
