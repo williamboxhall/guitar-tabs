@@ -1,4 +1,50 @@
+Conversation opened. 1 read message.
+
+Skip to content
+Using Gmail with screen readers
+12 of 16,594
+v4
+Inbox
+williamboxhall@Gmail.com fwds
+
+Neil Kelly
+Attachments
+Fri, Feb 13, 12:46 PM (1 day ago)
+to William
+
+version, try thinning the text more, esp start of verse
+
+ One attachment
+  •  Scanned by Gmail
+
+
 3/4
+D7      am    	D7     am
+D7      am     	D7/F#  am
+
+[verse]
+D7                am   D7           am
+we've reached the end, now the crash
+D7             am            D7/F#           am
+the Otways are burning, sift through the ash
+
+D7            am       D7             am
+we're own our own, the fat man's gone home
+D7           am        D7/F#  |am	D7 |am D7 |
+break all my bones and burn it all down
+
+
+[pre-ch]
+G        Am        C			G
+I see	 the way we’re making it worse
+        A        	C
+         na na na na na na
+G A                   C     G
+I hear those fightin' words
+A                 C
+na na na na na 		na na na na 
+
+intro 2
 D7      am    	D7     am
 D7      am     	D7/F#  am
 
@@ -6,39 +52,42 @@ D7      am     	D7/F#  am
 D7                am   D7           am
 we've reached the end, wait for the crash
 D7             am            D7/F#           am
-the otways are burning down, sift through the ash
+the otways are burning, sift through the ash
 
 D7            am       D7             am
 we're own our own, the fat man's gone home
-D7           am        D7/F#  am    D7
+D7           am        D7/F# 	 |am	D7 |am D7 |
 break all my bones and burn it all down
 
 
 [pre-ch]
 G        Am        C
-We need to hear each others' words
-G        A        C
-         nanana naaaa na naaa
+I hear those fightin' words
+G        A        	C
+         na na na na na na
 G A                   C     G
 I hear those fightin' words
 A                 C
-you're gonna make it worse
+na na na na na 		na na na na 
 
 
 [chorus]
 em   G        C      D/F#
 What are you afraid of
 em  G             C          B7
-You eat the fruit straight off the vine | when people don't see things the same |
+We eat the fruit straight off the vine 
+
 em              G           am         C
 Blame it on the autumn leaf waiting to fall
+em   G        C      D/F#
+What are you afraid of
 D7
 
 
 
 
 
-
+| when people don't see things the same |
 
 
 
@@ -71,3 +120,5 @@ black and white
 blinds us
 
 
+schmelliot v4.txt
+Displaying schmelliot v4.txt.
