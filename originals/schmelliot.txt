@@ -1,72 +1,48 @@
-3/4 swung
+3/4
+D7      am    	D7     am
+D7      am     	D7/F#  am
 
 [verse]
-D7      am    D7     am
-  nana naaaa  nanana naaaaaa
-D7      am     D7/F#  am
- nanana nanana nanana naaaaaa
+D7                am   D7           am
+we've reached the end, wait for the crash
+D7             am            D7/F#           am
+the otways are burning down, sift through the ash
 
-D7      am    D7     am
-  nana naaaa  nanana naaaaaa
-D7      am     D7/F#  am    D7
- nanana nanana nanana naaaaaa
+D7            am       D7             am
+we're own our own, the fat man's gone home
+D7           am        D7/F#  am    D7
+break all my bones and burn it all down
 
+
+[pre-ch]
 G        Am        C
-  nanana naaaa na naaa naaa na na na
+We need to hear each others' words
 G        A        C
-  nanana naaaa na naaa naaa na na na
-G
+         nanana naaaa na naaa
+G A                   C     G
+I hear those fightin' words
+A                 C
+you're gonna make it worse
 
 
+[chorus]
 em   G        C      D/F#
 What are you afraid of
 em  G             C          B7
-Your slogans say nothing at all
+You eat the fruit straight off the vine | when people don't see things the same |
 em              G           am         C
 Blame it on the autumn leaf waiting to fall
 D7
 
 
 
-we've reached the end
-wait for the crash
-the otways are burning down
-sift through the ash
 
-we're own our own
-the fat man's gone home
-break all my bones and
-burn it all down
-
-
-We need to hear each others' words
-Your sanctimony's making it worse
-I hear those fightin' words, but
-Your sanctimony's making it worse
-
-
-
-take off the gloves
-what do you stand for when push comes to shove
-
-
-eyes on the prize
-your sisters are drowning
-while you raise the flag
 
 
 
 
 
 notes:
-
-
-
-
-this song is about how censoriousness, sanctimony, selective outrage, black and white thinking and most of all not listening and
-applying critical thinking makes us all poorer, divides us, blinds us, and helps populist figures rise to power.
-The song advocates for measure, listening, critical thinking and for observing inconvenient truths
-
 
 F# D/F# G E7 am D7/F# G G
 
@@ -79,3 +55,19 @@ em A7 C D7/F#
 
 
 D7 am D7 am D7 am D7 am
+
+
+take off the gloves
+what do you stand for when push comes to shove
+
+
+eyes on the prize
+your sisters are drowning
+while you raise the flag
+
+
+black and white
+
+blinds us
+
+
