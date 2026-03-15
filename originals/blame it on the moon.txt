@@ -1,76 +1,88 @@
-Capo 5
+Capo 0
+
+[intro]
+D D/C# D/B D/B
+D D/C# D/B D/B
+D D    D   D
 
 [verse 1]
-D
-blame it on the moon
-D
+D               D
 blame it on the stars
-D7
-blame it on
-G    C                 D
- the month you were born
-
-D                      D7
-saturn is rising again
-G  C           D
+D               D
+blame it on the moon
+D7         G    C           D
+blame it on the day you were born
+D         D7		G
+Mercury's rising again
+   C           D       D
  returning you home
 
 [verse 2]
 D
-blame it on your mum
+blame it mum
 D
 blame it on your dad
 D7
-shine me on
-G
+Blame it on
+G       C			D
  what's making you mad
-
-D                          D7
+D            D7		G
 looping and looping around
-G    C            D
- and making those sounds
+   C            D
+ returning you home
 
 [pre-ch / bridge thing]
 D
 blame it on god
-F
+F#m
 blame it on the war
 em   A
  you know that we've heard it before
-F           em
+F#m           em
 giving it a second thought
-A7                           D
-maybe we could do something more
-
-[chorus]
-D D/C#
-
-D/B           f#m
-What would it be like to
+Bm           f#m
+What would it feel like to
 C
 build a better life
 Bm
 standing up for something good
 Bm            F#m                     Em
-what would it take to move this thing forward
-A7
+what would it take to move this thing on
+A7					D
 leaving these stories behind
 
+[instrumental]
+D/C# D/B D/B
+D D/C# D/B D/B
+D D    D   D
+
 [verse]
-D
+D                    D
 take another breath, take another step
 D7
 moving on
 G     C             D
  from old right and wrong
-D                                D7
+D            D7               G
 finding out something that works
-G      C           D
+       C           D
  let's stop bein' jerks
 
 [chorus]
 D D/C#
 
-D/B           f#m
-what would it be like...
+D/B          f#m
+What would it be like to
+C
+build a better life
+Bm
+standing up for something good enough
+Bm            F#m                     Em
+what would it take to move this thing on
+A7					D
+leaving these stories behind
 
+[outro]
+D D/C# D/B D/B
+D D/C# D/B D/B
+D
