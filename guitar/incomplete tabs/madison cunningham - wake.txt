@@ -1,0 +1,106 @@
+https://www.youtube.com/watch?v=2UlVTfFztPA
+
+Tuning: D-A-E-G-B-D   capo5
+
+[Picking pattern]
+d|------x--||
+B|-x-------||
+G|---(x)---||
+E|---x---x-||
+x|-x---x---||
+
+[Chords]
+[Intro]
+Em7(add13)  2x0020
+A7          x20002 -> x20000 -> x20004
+D           0x0004 -> 0x0002 -> 0x0005
+[Verse]
+A6          x02220 -> x02200
+A7sus       x03230 -> x03200 -> x03204
+Bm7/D       0x757x
+[Chorus]
+C(add11)    x31010
+C           x30010
+D7          002010
+
+
+[intro]
+Em7(add13)  A7  Em7(add13)   D
+Em7(add13)  A7  Em7(add13)
+
+d|-----------------------------------|
+B|--3--2--0-----------------------0--|
+G|--0--2--0--2--0-----------0--2--0--|
+E|-----------2--0--2--0--2--0--2-----|
+A|-----------------2--0--2-----------|
+D|-----------------------------------|
+
+[Verse 1]
+    A6
+You say that you could do me harm
+ A7sus
+In the safety of your arms
+ A6                            A7sus
+While your eyes are atom bombs dropping
+
+[Verse 2]
+   A6
+My head is full of thunderclouds
+ A7sus
+Keeping aircraft on the ground
+ A6                                   A7sus
+Who will win this lightning round of suffering?
+
+[Verse 3]
+ A6
+Turning in and turning out
+ A7sus
+The lining of our deepest doubts
+ A6                       A7sus
+In the California drought we're drowning
+
+[Chorus]
+ C(add11)        C
+I have followed
+ C(add11)        C
+In your wake
+ C(add11)                D7
+In your image, I might break
+
+<figure between chorus lines>
+d|---------------------------------|
+B|---------------------------------|
+G|-------0-------0-------0-------0-|
+E|-----0-------0-------0-------0---|
+A|-0h2-----2h3-----3h5-----0h2-----|
+D|---------------------------------|
+
+[intro instrumental]
+Em7(add13)  A7  Em7(add13)   D
+Em7(add13)  A7  Em7(add13)
+
+[Verse 4]
+ A6
+Bearing no resemblance
+ A7sus
+To an age of innocence
+ A6                      A7sus
+Have I lost the audience for good now?
+
+[Verse 5]
+ A6
+As the grand illusion frays
+ A7sus
+It hits me as I drive away
+ Bm7/D                      A7sus
+I'll never see your hair go gray
+
+[Chorus]
+ C(add11)        C
+I have followed
+ C(add11)        C
+In your wake
+ C(add11)                D7
+In your image, I might break
+
+< lots of instrumental stuff >
