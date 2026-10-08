@@ -75,6 +75,22 @@ E|-----0-------0-------0-------0---|
 A|-0h2-----2h3-----3h5-----0h2-----|
 D|---------------------------------|
 
+   C(add11)
+d|-0-----------|
+B|----1--------|
+G|-------0-----|
+E|-2-----------|
+A|----0--------|
+D|-------0-----|
+
+d|-------------||
+B|--1--1--1--1-||
+G|---0--0--0--0||
+E|----2-----2--||
+A|-------------||
+D|-0-----0-----||
+
+
 [intro instrumental]
 Em7(add13)  A7  Em7(add13)   D
 Em7(add13)  A7  Em7(add13)
@@ -104,3 +120,35 @@ In your wake
 In your image, I might break
 
 < lots of instrumental stuff >
+
+
+
+
+
+You say that you could do me harm
+In the safety of your arms
+While your eyes are atom bombs dropping
+
+My head is full of thunderclouds
+Keeping aircraft on the ground
+Who will win this lightning round of suffering?
+
+Turning in and turning out
+The lining of our deepest doubts
+In the California drought, we're drowning
+
+I have followed
+In your wake
+In your image, I might break
+
+Bearing no resemblance
+To an age of innocence
+Have I lost the audience for good now?
+
+As the grand illusion frays
+It hits me as I drive away
+I'll never see your hair go gray
+
+I have followed
+In your wake
+In your image, I might break

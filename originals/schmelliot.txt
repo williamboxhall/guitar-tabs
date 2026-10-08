@@ -59,9 +59,9 @@ We eat the fruit straight off the vine
 
 em              G           am         C
 Blame it on the autumn leaf waiting to fall
-em   G        C      D/F#
+em   G        C      [D7  am D7 am]
 What are you afraid of
-D7
+
 
 
 
@@ -98,3 +98,8 @@ while you raise the flag
 black and white
 
 blinds us
+
+
+
+
+cast me aside
